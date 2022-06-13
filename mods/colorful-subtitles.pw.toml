@@ -1,0 +1,8 @@
+name = "Colorful Subtitles"
+filename = "colorfulsubtitles-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/haykam821/Colorful-Subtitles/releases/download/1.0.0/colorfulsubtitles-1.0.0.jar"
+hash-format = "sha1"
+hash = "c7ef9a124c4600d1d78be63d122cb6182676219c"

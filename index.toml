@@ -1,1 +1,276 @@
 hash-format = "sha256"
+
+[[files]]
+file = "config/autorun.properties"
+hash = "30c137a9740d9cfec4d357cbb1825d6c8aea473af3ebd10d4f38eedf57f21c5c"
+
+[[files]]
+file = "config/borderlessmining.json"
+hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+
+[[files]]
+file = "config/capes.json5"
+hash = "b654cbb5019c63c7824286269676c1f9e9198d8f5bcfabe8b8691c529ecc4e5e"
+
+[[files]]
+file = "config/continuity.json"
+hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
+
+[[files]]
+file = "config/effective.json"
+hash = "d019c209df045fb1c3dc112f0bee1a66db1909ed97664ec7c5c298446f33af34"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "5a3b9923ec0889fe7d071c4f20084e5476b06b0a1ad4812c138c76b069d41197"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "ea2b29626c7b72a4dcd937bd7fc1560b2a9e41761139f646fce7872a59cb176c"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+
+[[files]]
+file = "config/forcecloseloadingscreen.json"
+hash = "ab85b51df50fc88da375ff53bbdd7120c07df8c77fde8e9d9a837623e7767fcc"
+
+[[files]]
+file = "config/illuminations.properties"
+hash = "fc5e2d440b68d3b232d530a4ef16e43c4fb484c3d41b58df810fe1e4bfc971d4"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "8a89100c18a919aa0737b18b65a4984de61b87c80feb9c8f9be2cd81cb1895e8"
+
+[[files]]
+file = "config/iris.properties"
+hash = "7bd13646a3e6b24e7443559031edf5e8b33e4b8e10d85b10ae82c4096b032bdb"
+
+[[files]]
+file = "config/itemmodelfix.json"
+hash = "f67460631e5dd59fd646347174cfe7b8de38be6556bb928bea4619cbd6f32616"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "a249dd8cb9f5ff909589758048a657a615e4b0aac5ba34c4282759817d9e7f24"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
+
+[[files]]
+file = "config/sodium-shadowy-path-blocks-options.json"
+hash = "9e8b42cc58d3adf4d0836a5ab746ead576078fd2f68605c790500033776b0139"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "cab1772583c10afc494d0ad9da1ba4fdc2502dbbcb956c13c60501fc4b92863d"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "60302807774cb82d6ba2e152b4320c491de59aafbc70acf020bc6caf5eb95aff"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "46377cb5a8446693ebe1e237ede9ad81e4cbe848e92dfb9361b9eb1d1f439c24"
+
+[[files]]
+file = "config/waveycapes.json"
+hash = "81d7692437301b8b307bfb0d0513bc832c946174729b8758783447549b3db77e"
+
+[[files]]
+file = "mods/advdebug-2.3.0.jar"
+hash = "7d7d9ac9ee310cbdd0b96bf9807c714f71216b4decfbf1da535561afb4d36ba6"
+
+[[files]]
+file = "mods/autorun.pw.toml"
+hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "818f99a9459c9659440929a3bebde01f67f3cfd7f8756ccfd9b63f2906d8058b"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "7895456be6f6f78bbcc6dc19d699f0f7d755c709f1d62809babeec21adf82308"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "76e805480f5d9c407dbc502f41517af86156d0c6504a1d7f2b8fc6294ae6de81"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
+metafile = true
+
+[[files]]
+file = "mods/colorful-subtitles.pw.toml"
+hash = "d823c216051a1241f9760674feaa28b9f7c70d15287d523dd4ceb13ac08962db"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "7e7bf5838b616b551522bf3e4c24abfab9097362867bc4a4879609362abbd265"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "6cb34219f7edaae938e9f4edabe1ee15742c6784d59dc97fc3e6df4a5e24d850"
+metafile = true
+
+[[files]]
+file = "mods/effective-1.2.2.jar"
+hash = "4e7b7535360bd99e75c486e42f6ed7192ccb62ddea09fa178d1bd4812517a96f"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/illuminations-1.10.5.jar"
+hash = "a78817672b3c20ee505dddf1bd3ffef3adeacf91d4391d065c5a51809e46b087"
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix-1.0.3+1.18.jar"
+hash = "1407f1e21003f16d7809baaa81b1955fb730ff301355ad91f4fbf291c0520fd1"
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+metafile = true
+
+[[files]]
+file = "mods/nightvisionflashbegone-1.1.0.jar"
+hash = "15faf5e2fcf7b7bf0e9a1c8fcab01aef0e1407dfc8f05a677a40301b82e86962"
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "eb2fc526d5401c9e724cca168da3d9051adafd680359d31a313e5d3c3c6cf73c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "0024debffc8fa9ace160b5115c333061c5a678872dcc53b44185d27ac4850f51"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/soundphysics-fabric-1.19-1.0.6.jar"
+hash = "6f5a1ac0ec7b5e6c02e92f054777bb5db280c1bfd8ff67c167dbca8295b40aef"
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "663ab76fe7da8d795469e7e69a1ff0e7061620a084657e3d629e6803db952356"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "0411ec791a75dd2d642f0029e536fb9694c6fd1b0a0a042bf647343af6f7dd00"
+
+[[files]]
+file = "resourcepacks/Compliance-32x-Java-Beta-20.zip"
+hash = "87b22f42d5be73d2e26a9e911fe46467109b62f79c0261f43bde6ed0aac991a4"
+
+[[files]]
+file = "resourcepacks/Dark-UI-32x.zip"
+hash = "1256c26f36c5966b3117e68ce6b836dc2092d6c7b2d6c8d25b91f39b3aa7f013"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.5.zip"
+hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+hash = "3966f5fdf575a6711864ec3faeb2cef01e4cbbf703bd9e7e18a4f3f9dbe4c85c"
