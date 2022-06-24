@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "a4dabdad5a3a920b2ce57936387a98278b117fdbe035ad25d69b0d63d66a3073"
+
+[[files]]
 file = "config/autorun.properties"
 hash = "30c137a9740d9cfec4d357cbb1825d6c8aea473af3ebd10d4f38eedf57f21c5c"
 
@@ -112,12 +116,12 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "7895456be6f6f78bbcc6dc19d699f0f7d755c709f1d62809babeec21adf82308"
+hash = "c3d82e10126c56b018d25f664e9107a583091b82548c4f04a14c3b1b4db0f507"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "76e805480f5d9c407dbc502f41517af86156d0c6504a1d7f2b8fc6294ae6de81"
+hash = "39288231de229a526ae51f44ba357a6ac472ba598dd74fea2b0eaaf868714669"
 metafile = true
 
 [[files]]
@@ -156,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
 metafile = true
 
 [[files]]
@@ -185,12 +189,12 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
-file = "mods/illuminations-1.10.5.jar"
-hash = "a78817672b3c20ee505dddf1bd3ffef3adeacf91d4391d065c5a51809e46b087"
+file = "mods/illuminations-1.10.6.jar"
+hash = "49ea2eb92f16f05eafca44a127fe0e765554656713d2c1947459af6cad54b082"
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
@@ -247,7 +251,7 @@ hash = "6f5a1ac0ec7b5e6c02e92f054777bb5db280c1bfd8ff67c167dbca8295b40aef"
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
