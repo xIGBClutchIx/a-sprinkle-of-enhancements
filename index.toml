@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "a4dabdad5a3a920b2ce57936387a98278b117fdbe035ad25d69b0d63d66a3073"
+hash = "fbb91665120cd581cf4bc29221275265c1984c5a053bad47765085dcddb71aa9"
 
 [[files]]
 file = "config/autorun.properties"
@@ -54,7 +54,7 @@ hash = "8a89100c18a919aa0737b18b65a4984de61b87c80feb9c8f9be2cd81cb1895e8"
 
 [[files]]
 file = "config/iris.properties"
-hash = "7bd13646a3e6b24e7443559031edf5e8b33e4b8e10d85b10ae82c4096b032bdb"
+hash = "c033b2e451f6dc06fe4b8cef371d8f86ca3b8f2539f28a2a1e9a4fd3b8c93cb8"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -101,8 +101,9 @@ file = "config/waveycapes.json"
 hash = "81d7692437301b8b307bfb0d0513bc832c946174729b8758783447549b3db77e"
 
 [[files]]
-file = "mods/advdebug-2.3.0.jar"
-hash = "7d7d9ac9ee310cbdd0b96bf9807c714f71216b4decfbf1da535561afb4d36ba6"
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
 
 [[files]]
 file = "mods/autorun.pw.toml"
@@ -116,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "c3d82e10126c56b018d25f664e9107a583091b82548c4f04a14c3b1b4db0f507"
+hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "39288231de229a526ae51f44ba357a6ac472ba598dd74fea2b0eaaf868714669"
+hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -136,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -146,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "6cb34219f7edaae938e9f4edabe1ee15742c6784d59dc97fc3e6df4a5e24d850"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
@@ -160,17 +161,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49b2d1cd601a35967f875dbf0fa762295fc93621f1caa5292561ba527f1d0c9d"
+hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
+hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
 metafile = true
 
 [[files]]
@@ -189,26 +190,26 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
-file = "mods/illuminations-1.10.6.jar"
-hash = "49ea2eb92f16f05eafca44a127fe0e765554656713d2c1947459af6cad54b082"
+file = "mods/illuminations-1.10.8.jar"
+hash = "2c25dc32b10e335016b91bd3a6d67195cb79c561857316a44d51fe631998d230"
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix-1.0.3+1.18.jar"
-hash = "1407f1e21003f16d7809baaa81b1955fb730ff301355ad91f4fbf291c0520fd1"
+file = "mods/item-model-fix-1.0.3+1.19.jar"
+hash = "9d9919d12f9b2d5a55d8b1842a5997e91a466367fa4f4a5fe8005bdaf06ffc3a"
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -218,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
@@ -246,8 +247,8 @@ hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
-file = "mods/soundphysics-fabric-1.19-1.0.6.jar"
-hash = "6f5a1ac0ec7b5e6c02e92f054777bb5db280c1bfd8ff67c167dbca8295b40aef"
+file = "mods/soundphysics-fabric-1.19.2-1.0.12.jar"
+hash = "6fe6ec95f4b04f96aaf20abe73d80f85774553aafe1611d21f393239339dd10c"
 
 [[files]]
 file = "mods/starlight.pw.toml"
@@ -256,25 +257,25 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "663ab76fe7da8d795469e7e69a1ff0e7061620a084657e3d629e6803db952356"
+hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0411ec791a75dd2d642f0029e536fb9694c6fd1b0a0a042bf647343af6f7dd00"
-
-[[files]]
-file = "resourcepacks/Compliance-32x-Java-Beta-20.zip"
-hash = "87b22f42d5be73d2e26a9e911fe46467109b62f79c0261f43bde6ed0aac991a4"
+hash = "e88b5b105412965d0e26a4a1ee8dd12295167915f18c8febf95a62d7efc5f4be"
 
 [[files]]
 file = "resourcepacks/Dark-UI-32x.zip"
 hash = "1256c26f36c5966b3117e68ce6b836dc2092d6c7b2d6c8d25b91f39b3aa7f013"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip"
-hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
+file = "resourcepacks/Faithful 32x - 1.19.2.zip"
+hash = "61a2f97b44dcd61c3851522ecceafad582a57150f702fd9a9bd73793c3960c96"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.6.zip"
+hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
 hash = "3966f5fdf575a6711864ec3faeb2cef01e4cbbf703bd9e7e18a4f3f9dbe4c85c"

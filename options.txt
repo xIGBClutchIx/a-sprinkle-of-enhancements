@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Compliance-32x-Java-Beta-20.zip","file/Dark-UI-32x.zip"]
-incompatibleResourcePacks:["file/Compliance-32x-Java-Beta-20.zip","file/Dark-UI-32x.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Faithful 32x - 1.19.2.zip","file/Dark-UI-32x.zip"]
+incompatibleResourcePacks:["file/Dark-UI-32x.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
