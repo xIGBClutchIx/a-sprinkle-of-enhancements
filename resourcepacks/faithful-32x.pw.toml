@@ -1,0 +1,13 @@
+name = "Faithful 32x"
+filename = "Faithful 32x - 1.19.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w0TnApzs/versions/zlfBn4Dg/Faithful%2032x%20-%201.19.3.zip"
+hash-format = "sha1"
+hash = "ae4c63056a8422fa0044b02a9846b078690e8f9a"
+
+[update]
+[update.modrinth]
+mod-id = "w0TnApzs"
+version = "zlfBn4Dg"

@@ -1,5 +1,7 @@
-version:3105
+version:3218
+quilt_available_resource_packs:["betterbeds/connectedbeds","betterbeds/fancybeds","continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19.3-0.5-000000-0-000000-AAAAAA-(v1.4.0).zip","file/Faithful 32x - 1.19.3.zip","minecraft/supporteatinganimation","programmer_art","vanilla"]
 autoJump:false
+operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -33,12 +35,12 @@ guiScale:2
 particles:0
 maxFps:260
 graphicsMode:1
-ao:2
+ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Faithful 32x - 1.19.2.zip","file/Dark-UI-32x.zip"]
-incompatibleResourcePacks:["file/Dark-UI-32x.zip"]
+resourcePacks:["vanilla","file/Faithful 32x - 1.19.3.zip","file/Default-Dark-Mode-1.19.3-0.5-000000-0-000000-AAAAAA-(v1.4.0).zip","minecraft/supporteatinganimation","continuity/default","continuity/glass_pane_culling_fix"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -75,8 +77,9 @@ hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
-chatPreview:true
 onlyShowSecureChat:false
+panoramaScrollSpeed:1.0
+telemetryOptInExtra:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -111,8 +114,9 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.autorun.toggle:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.autorun.toggle:key.keyboard.r
+key_key.modmenu.open_menu:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.semicolon
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

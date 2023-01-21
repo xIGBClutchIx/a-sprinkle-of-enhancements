@@ -1,11 +1,14 @@
 {
   "version": 1,
   "displayDebugData": false,
+  "enabled": true,
   "leafSize": 5,
   "leafLifespan": 200,
   "leafSpawnRate": 10,
   "coniferLeafSpawnRate": 0,
+  "snowflakeSpawnRate": 15,
   "dropFromPlayerPlacedBlocks": true,
+  "leavesOnBlockHit": true,
   "minimumFreeSpaceBelow": 1,
   "windEnabled": true,
   "windlessDimensions": [
@@ -44,6 +47,10 @@
     "minecraft:spruce_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": true
+    },
+    "minecraft:mangrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

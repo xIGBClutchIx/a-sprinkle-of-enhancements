@@ -1,0 +1,13 @@
+name = "Complementary Shaders v4"
+filename = "ComplementaryShaders_v4.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/CMWGx8BZ/ComplementaryShaders_v4.7.zip"
+hash-format = "sha1"
+hash = "f6c226d4d166ab2fd4922aadbc1dcf4ff44c41d1"
+
+[update]
+[update.modrinth]
+mod-id = "R6NEzAwj"
+version = "CMWGx8BZ"
