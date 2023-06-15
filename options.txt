@@ -1,5 +1,4 @@
 version:3218
-quilt_available_resource_packs:["betterbeds/connectedbeds","betterbeds/fancybeds","continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19.3-0.5-000000-0-000000-AAAAAA-(v1.4.0).zip","file/Faithful 32x - 1.19.3.zip","minecraft/supporteatinganimation","programmer_art","vanilla"]
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -39,7 +38,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"false"
-resourcePacks:["vanilla","file/Faithful 32x - 1.19.3.zip","file/Default-Dark-Mode-1.19.3-0.5-000000-0-000000-AAAAAA-(v1.4.0).zip","minecraft/supporteatinganimation","continuity/default","continuity/glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","file/Faithful-Java-32x-1.20.zip","file/Default-Dark-Mode-1.20-2023.6.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

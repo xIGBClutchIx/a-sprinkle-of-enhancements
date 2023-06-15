@@ -1,8 +1,13 @@
 name = "Dark Loading Screen"
-filename = "dark-loading-screen-1.6.11.jar"
+filename = "dark-loading-screen-1.6.14.jar"
 side = "client"
 
 [download]
-url = "https://github.com/A5b84/dark-loading-screen/releases/download/v1.6.11/dark-loading-screen-1.6.11.jar"
+url = "https://cdn.modrinth.com/data/h3XWIuzM/versions/HLjyJHzA/dark-loading-screen-1.6.14.jar"
 hash-format = "sha1"
-hash = "4f93411b34bc03e6b6af00f70a6f45190aad9ba7"
+hash = "c6ce1e2c34fe4a412183431ea6b323e5e6eaf8f0"
+
+[update]
+[update.modrinth]
+mod-id = "h3XWIuzM"
+version = "HLjyJHzA"
