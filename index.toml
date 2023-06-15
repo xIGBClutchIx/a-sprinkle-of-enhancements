@@ -177,10 +177,6 @@ hash = "13a1357c0e5f6a3bd2978c80c405909b0654079a3f29d8f02fdc30f985f17f9b"
 metafile = true
 
 [[files]]
-file = "mods/effective-1.7+1.19.3.jar"
-hash = "e1aeb798ebecd3e8eefbf877309857e1c5e6e2135c1f2a618a80696d4982c599"
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
 metafile = true
