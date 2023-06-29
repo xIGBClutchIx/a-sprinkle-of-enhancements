@@ -241,12 +241,13 @@ hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
-file = "mods/nightvisionflashbegone-1.1.0.jar"
-hash = "15faf5e2fcf7b7bf0e9a1c8fcab01aef0e1407dfc8f05a677a40301b82e86962"
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
+metafile = true
+
+[[files]]
+file = "mods/no-night-vision-flickering.pw.toml"
+hash = "a679886f4f403a5479e932658d6ec7750f38c4fa9c10e61b02b6be23c57a5bd7"
 metafile = true
 
 [[files]]

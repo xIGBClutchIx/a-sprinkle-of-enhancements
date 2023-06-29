@@ -1,0 +1,13 @@
+name = "No Night Vision Flickering"
+filename = "nnvf-0.1.3_1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/j2cIyDv4/versions/Zkj6cv8z/nnvf-0.1.3_1.20.jar"
+hash-format = "sha1"
+hash = "51f7a22905c5ccbb3e9966d830296758a9405304"
+
+[update]
+[update.modrinth]
+mod-id = "j2cIyDv4"
+version = "Zkj6cv8z"
