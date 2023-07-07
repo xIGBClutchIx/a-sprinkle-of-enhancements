@@ -251,6 +251,11 @@ hash = "a679886f4f403a5479e932658d6ec7750f38c4fa9c10e61b02b6be23c57a5bd7"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e322a7ff1a300edcd29320206634eed36eab9a8b06e4e9142d163d89da341bb4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "6260f5d716fc4fb3c627edb0925aaacfdaf9b6f7213cf8948a3bd8f7b126c790"
 metafile = true
