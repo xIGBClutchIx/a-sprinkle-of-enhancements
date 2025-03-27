@@ -1,2 +1,5 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude VSCode settings
+.vscode/

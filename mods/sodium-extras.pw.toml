@@ -1,0 +1,13 @@
+name = "Sodium Extras"
+filename = "sodiumextras-fabric-1.0.7-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/q8C5e9OZ/sodiumextras-fabric-1.0.7-1.21.4.jar"
+hash-format = "sha512"
+hash = "1243a989ec147c39cc9ae43a4788114ef352a6e64a4361e9c806adf103b3200f72423943d65cd1004f145d146907a91c793477cdd296a45b07ec2bb001909095"
+
+[update]
+[update.modrinth]
+mod-id = "vqqx0QiE"
+version = "q8C5e9OZ"
