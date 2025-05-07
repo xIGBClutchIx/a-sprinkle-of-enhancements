@@ -1,14 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "displayDebugData": false,
   "enabled": true,
+  "alwaysUseVanillaParticles": false,
+  "useVanillaTextures": false,
   "leafSize": 5,
   "leafLifespan": 200,
-  "leafSpawnRate": 10,
+  "leafSpawnRate": 20,
   "coniferLeafSpawnRate": 0,
-  "cherrySpawnRate": 10,
-  "paleOakSpawnRate": 10,
-  "snowflakeSpawnRate": 15,
+  "snowflakeSpawnRate": 30,
   "dropFromPlayerPlacedBlocks": true,
   "leavesOnBlockHit": true,
   "minimumFreeSpaceBelow": 1,
@@ -18,49 +18,58 @@
     "minecraft:the_nether"
   ],
   "leafSettings": {
-    "minecraft:flowering_azalea_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
-      "spawnBreakingLeaves": false
-    },
     "minecraft:jungle_leaves": {
+      "particleImplementation": "REGULAR",
       "spawnRateFactor": 0.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
     },
-    "minecraft:birch_leaves": {
+    "minecraft:flowering_azalea_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
+    },
+    "minecraft:mangrove_leaves": {
+      "particleImplementation": "REGULAR",
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
     },
     "minecraft:azalea_leaves": {
+      "particleImplementation": "VANILLA",
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": false
+    },
+    "minecraft:birch_leaves": {
+      "particleImplementation": "REGULAR",
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
     },
     "minecraft:acacia_leaves": {
+      "particleImplementation": "REGULAR",
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
     },
     "minecraft:oak_leaves": {
+      "particleImplementation": "REGULAR",
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
     },
     "minecraft:dark_oak_leaves": {
+      "particleImplementation": "REGULAR",
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": false
     },
     "minecraft:spruce_leaves": {
+      "particleImplementation": "CONIFER",
       "spawnRateFactor": 1.0,
       "isConiferBlock": true,
-      "spawnBreakingLeaves": false
-    },
-    "minecraft:mangrove_leaves": {
-      "spawnRateFactor": 1.0,
-      "isConiferBlock": false,
       "spawnBreakingLeaves": false
     }
   },

@@ -387,7 +387,9 @@ _version = 3
 
 			[client.advanced.debugging.openGl]
 				#
-				# Requires a reboot to change.
+				# Defines how OpenGL errors are handled. 
+				#  Requires rebooting Minecraft to change. 
+				# Will catch OpenGL errors thrown by other mods.
 				overrideVanillaGLLogger = false
 				#
 				# Defines how OpenGL errors are handled. 
@@ -403,6 +405,14 @@ _version = 3
 				# Massively reduces FPS. 
 				# Should only be used if mysterious EXCEPTION_ACCESS_VIOLATION crashes are happening in DH's rendering code for troubleshooting.
 				validateBufferIdsBeforeRendering = false
+				#
+				# If true each Open GL error will only be logged once. 
+				# Enabling this may cause some error logs to be missed. 
+				# Does nothing if overrideVanillaGLLogger is set to false. 
+				#  
+				# Generally this can be kept as 'true' to prevent log spam. 
+				# However, Please set this to 'false' if a developer needs your log to debug a GL issue.
+				onlyLogGlErrorsOnce = true
 
 			[client.advanced.debugging.exampleConfigScreen]
 				shortTest = "69"

@@ -1,13 +1,13 @@
 name = "AutoRun"
-filename = "autorun-mc1.21.2-v1.1.0.jar"
+filename = "autorun-mc1.21.5-v1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/k7AZYMpu/autorun-mc1.21.2-v1.1.0.jar"
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/7AdQH4kf/autorun-mc1.21.5-v1.2.0.jar"
 hash-format = "sha512"
-hash = "c42b34a2a411641bcc270c3f36b1d1e5e3c2d87e7a1ff772a4e94f307bbe6ceb2fb38993b6efe1e22ed0539a8f1ae2c516699116e0970939cfc37ccd17e0ded3"
+hash = "06ad7658f78cf08f0fda8c3738f7d1ca5da02625800dd90e37726793ebd4dfbbb9f39016539ae42540c2e3c7ae4b756c83412f1b7f3c5daff5040732eb70ea2d"
 
 [update]
 [update.modrinth]
 mod-id = "2i7tg1Wv"
-version = "k7AZYMpu"
+version = "7AdQH4kf"

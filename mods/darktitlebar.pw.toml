@@ -1,0 +1,13 @@
+name = "DarkTitleBar"
+filename = "DarkTitleBar-1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wAP4f8Jf/versions/9AccOSxL/DarkTitleBar-1.3.jar"
+hash-format = "sha512"
+hash = "1262c5684d836ee2a8fe309322d31953ab8266e5b24cd414b43981b7db02477454a0c8a22fe55837a08ce6730264328362fd7fbdcbcdbb7f6840ba1fcb5ebcf9"
+
+[update]
+[update.modrinth]
+mod-id = "wAP4f8Jf"
+version = "9AccOSxL"

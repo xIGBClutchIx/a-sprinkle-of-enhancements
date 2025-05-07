@@ -4,37 +4,39 @@ This modpack is just your normal optimization-based modpack with a few visual ad
 Everything you see in this pack should work completely fine on Vanilla servers! This modpack will not add anything such as minimaps or other things that go against the spirit of Vanilla Minecraft.
 
 # Mod List
-* Advancements Debug
 * AutoRun
+* BadOptimizations
 * Better Beds
-* Borderless Mining
 * Capes
-* Cloth Config API
-* Colorful Subtitles
+* Clean F3
+* Cloth Config
 * Continuity
+* Cubes Without Borders
 * Dark Loading Screen
-* Eating Animation [Fabric]
-* Effective - https://www.curseforge.com/minecraft/mc-mods/effective
-* EntityCulling
+* Dark Title Bar
+* Distant Horizons
 * Fabric API
 * Fabric Language Kotlin
 * Falling Leaves
+* Fast IP Ping
 * FerriteCore
-* ForgetMeChunk
-* Illuminations - https://www.curseforge.com/minecraft/mc-mods/illuminations
+* ImmediatelyFast
 * Indium
 * Iris Shaders
 * kennytvs-epic-force-close-loading-screen-mod-for-fabric
 * Krypton
-* LazyDFU
 * Lithium
 * Mod Menu
-* Night Vision flash be gone
-* Smooth Boot
+* Model Fix
+* ModernFix
+* No Chat Reports
+* Reese's Sodium Options
+* Simple Voice Chat
 * Sodium
+* Sodium Extras
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
-* Starlight (Fabric)
+* ViaFabricPlus
 * Wavey Capes
 
 # Resource Packs
