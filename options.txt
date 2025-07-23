@@ -51,8 +51,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Faithful 32x - 1.21.5.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip","file/Theone\u0027s Eating Animation Pack v1.01.zip"]
-incompatibleResourcePacks:["badoptimizations","modernfix","sodiumextras","sodiumoptionsapi","sodiumoptionsmodcompat","txnilib","file/Faithful 32x - 1.21.5.zip","file/Default-Dark-Mode-1.20.2+-2024.6.0.zip"]
+resourcePacks:["vanilla","fabric","file/Faithful 32x - 1.21.7.zip","file/Theone\u0027s Eating Animation Pack v1.01.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
+incompatibleResourcePacks:["badoptimizations","trender","txnilib","waveycapes","file/Theone\u0027s Eating Animation Pack v1.01.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0

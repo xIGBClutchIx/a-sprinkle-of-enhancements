@@ -1,0 +1,53 @@
+---
+description: Modpack Update Changelog Generation - When generating a changelog for a modpack update, follow this structure.
+globs: 
+alwaysApply: false
+---
+# Cursor Rule: Modpack Update Changelog Generation
+
+When generating a changelog for a modpack update, follow this structure:
+
+1.  **Main Title**:
+    *   Start with a markdown H1 heading: `# [Version Number] Update`
+        *   Example: `# 1.21.5 Update`
+
+2.  **General Update Summary**:
+    *   Immediately following the title, provide 1-3 bullet points summarizing the high-level changes.
+    *   These should be broad statements about the nature of the update.
+    *   Examples:
+        *   `- Updated existing mods to their latest versions for improved performance and compatibility.`
+        *   `- Updated resource packs and shader configurations for better visuals.`
+        *   `- Addressed several bug fixes and stability issues.`
+
+3.  **Mod Changes Section**:
+    *   Add a markdown H2 heading: `## Mod Changes`
+
+4.  **Added Mods Sub-section**:
+    *   Under "Mod Changes," add a markdown H3 heading: `### Added`
+    *   List each newly added mod as a bullet point.
+    *   Format: `- **[Mod Name]** - [Brief description of mod and its purpose, including any relevant context like OS specificity].`
+    *   Example: `- **DarkTitleBar** - A new mod to make the window title bar dark for a consistent theme (primarily for Windows).`
+    *   If no mods were added, this section can be omitted or state "None."
+
+5.  **Removed Mods Sub-section**:
+    *   Following "Added" (or directly under "Mod Changes" if nothing was added), add a markdown H3 heading: `### Removed`
+    *   List each removed mod as a bullet point.
+    *   Format: `- **[Mod Name]** - [Brief description of the mod that was removed].`
+    *   Example: `- **ModernFix** - This optimization mod has been removed from the pack.`
+    *   If no mods were removed, this section can be omitted or state "None."
+
+**Example Output (based on the rule):**
+
+```markdown
+# 1.21.5 Update
+
+- Updated existing mods to their latest versions for improved performance and compatibility.
+- Updated resource packs and shader configurations for better visuals.
+
+## Mod Changes
+
+### Added
+- **DarkTitleBar** - A new mod to make the window title bar dark for a consistent theme (primarily for Windows).
+### Removed
+- **ModernFix** - This optimization mod has been removed from the pack.
+```

@@ -1,13 +1,13 @@
 name = "Default Dark Mode"
-filename = "Default-Dark-Mode-1.20.2+-2024.6.0.zip"
+filename = "Default-Dark-Mode-1.21.6+-2025.6.0.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/KW0bu9nm/Default-Dark-Mode-1.20.2%2B-2024.6.0.zip"
-hash-format = "sha1"
-hash = "4eedb17ea58f2d90ac0569b8b93a072fa650123e"
+url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/NQogl7Qf/Default-Dark-Mode-1.21.6-2025.6.0.zip"
+hash-format = "sha512"
+hash = "0A64A73F9E6F367C01646B426A1372F9BB1068E2E381109EE86B60D430E0DDB00E74D7C5229B1EE2B51E99717B8C96C3153AA4CD1D6AF1BEAE33E56DC1E83C21"
 
 [update]
 [update.modrinth]
 mod-id = "6SLU7tS5"
-version = "KW0bu9nm"
+version = "NQogl7Qf"
