@@ -170,7 +170,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/viafabricplus/settings.json"
-hash = "09406b58e38df6b5490eb770a42d04ed9c46bad385759fedc3bf9534b2791b61"
+hash = "2607d1083c0d6a1b4388d76a45ab8afa19e48d7c1987b60e62022ccdeb6a97d5"
 
 [[files]]
 file = "config/viafabricplus/viaaprilfools.yml"
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cd699e5ba6755a364994c3a78d1d59f1082725a31218e21f5b51eee24119197a"
+hash = "115f13ee4c4932c34cd0919e4523f85e6bbae2f3b727d3e3a40be034ee34f061"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
