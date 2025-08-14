@@ -20,30 +20,32 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Falling Leaves
 * Fast IP Ping
 * FerriteCore
+* Forge Config API Port
 * ImmediatelyFast
-* Indium
 * Iris Shaders
-* kennytvs-epic-force-close-loading-screen-mod-for-fabric
+* KennyTV's Epic Force Close Loading Screen
 * Krypton
 * Lithium
+* MidnightLib
 * Mod Menu
 * Model Fix
-* ModernFix
 * No Chat Reports
 * Reese's Sodium Options
+* Remove Reloading Screen (RRLS)
+* ScalableLux
+* ShulkerBoxTooltip
 * Simple Voice Chat
 * Sodium
-* Sodium Extras
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
+* TxniLib
 * ViaFabricPlus
 * Wavey Capes
 
 # Resource Packs
-* Faithful/Compliance
-* Dark UI
+* Faithful 32x
+* Default Dark Mode
+* TheOne's Eating Animation Pack
 
 # Shader Packs
-* Complementary Shaders v4
-
-
+* Complementary Shaders v5 (Unbound r5.5.1)
