@@ -10,7 +10,7 @@ hash = "990793f4ffa4ad9dca42d72715aa8b25cc01a217c98adc62153bf08d93974efc"
 
 [[files]]
 file = "README.md"
-hash = "50896a0fd8760bd530a5c82f98fc3dd7e1ed752a0f3c9f0a6f203f4d6b125c1e"
+hash = "845aa48b2874efa2bbc36beb8e994a8f152b1014956ec120317ca7be75d12ec0"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -49,6 +49,10 @@ file = "config/capes.json5"
 hash = "b654cbb5019c63c7824286269676c1f9e9198d8f5bcfabe8b8691c529ecc4e5e"
 
 [[files]]
+file = "config/chat_heads.json5"
+hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
+
+[[files]]
 file = "config/clean-debug.json"
 hash = "167e65d26ea7157fb60aa640881fa2968bf01cb03014e25d63727d1cb8c70d05"
 
@@ -75,6 +79,10 @@ hash = "90e765866cc73cb352c9c06bed8b3d36b1a2a0dc111396b3c54ec9cfce030ea6"
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/flashback/flashback.json"
+hash = "90818b1d98486328cab81f3c1f5ee37d0c8060c4f80f49ebb9791e673d3472a0"
 
 [[files]]
 file = "config/forcecloseloadingscreen.json"
@@ -225,6 +233,11 @@ file = "config/waveycapes.json"
 hash = "81d7692437301b8b307bfb0d0513bc832c946174729b8758783447549b3db77e"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
+metafile = true
+
+[[files]]
 file = "mods/autorun.pw.toml"
 hash = "79f072f4cf6af19e5b11e9b3b4a7ff43e09220cfe7cca2ef4531e699c3d39210"
 metafile = true
@@ -241,7 +254,12 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "c54c63db8982ebcdcc966c4d95a30e42379c1db5cb8875840d736bec8c7ceb9a"
+hash = "bfa3ef713975bd287cdddd1afb713ed0f16326427cf2d78af4030f8b21b95be3"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
 metafile = true
 
 [[files]]
@@ -251,7 +269,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/colorful-subtitles.pw.toml"
+hash = "2ed648cf5a86fcd7f4de12a4604a0b0f35058a727a780c09c07528f47cf73d89"
 metafile = true
 
 [[files]]
@@ -281,17 +304,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "70ef4c56ac7d929c6d7b86b0922450df1fdd4bd7042a77f5b57ec73e13701466"
+hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+metafile = true
+
+[[files]]
+file = "mods/facebar.pw.toml"
+hash = "ff4915418f9f3d9ef05b86dcbd2429c9b2fca4208311d905b1290ad92e696091"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
+hash = "646a03dd78fcad34dd93fbbdc09d64010dc0f04fcec42927f229ecf448cf1832"
 metafile = true
 
 [[files]]
@@ -316,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cf0b694687c823b69ebb1cc78f72fdd83cc86c106354b30a7c157f4ca534c9ef"
+hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
 
 [[files]]
@@ -355,6 +383,11 @@ hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
@@ -376,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ffc35cee2eeb4a9c854e062ace8cfa89cf8724390c044eec4c5200446929c24c"
+hash = "3d4e09db818e622bdaf1ca38dde12b7412b7c6cdab893806cdd1920abe909aa8"
 metafile = true
 
 [[files]]
@@ -391,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "ccda0dfb873d602dab8597e8a277221a5e212eadfd6820ef212d381d14af3591"
+hash = "380c28c782f6114f217a87fa3a5bfce6359fbe24d46ea8ce9893880dc07ecfcf"
 metafile = true
 
 [[files]]
@@ -401,12 +434,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "65b187f6fce313c83a35ee2a29919a3a3a57d71c8d26d7306e1891899cf92b8f"
+hash = "0b81295141b0220b224e9f6af9cbfd25764bf2e3dfb122eacd49f9f9c29c92a9"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "89df73bdcd8faf70f963302ce3d41da19b088df284f14c526897ff831152117b"
+hash = "e55c90ed7bbc257b1eeb89e790c8eb12ce56fa752347649f8a2387fd39bfc8b8"
 metafile = true
 
 [[files]]
