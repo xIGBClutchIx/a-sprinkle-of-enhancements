@@ -333,6 +333,11 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "9dd48a37820ea9287e16bb6685540b91cd23cc02eee51675698be1e98f51627a"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
 metafile = true
@@ -444,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "115f13ee4c4932c34cd0919e4523f85e6bbae2f3b727d3e3a40be034ee34f061"
+hash = "b89cc0891cecb6b278efd762fff9c1b9d6564496c9f2a95c020fe8b6ce883e06"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
