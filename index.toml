@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+hash = "67a8eaef9ae5367fc70932470506ba147b3a34318d607d0bc6d485ca16645b6e"
 metafile = true
 
 [[files]]
@@ -299,17 +299,17 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
+hash = "03d1bbd443c88f2948a7295a49fb7114e07b61bb777188630718eae3635ce1a8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
+hash = "c3b72a68903d903b47dd9fac9d03b190b7c6b3b9f9c5a4e5f599afba109c6a17"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -344,17 +344,17 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "bc0907d771d58c31fb8abd1ac78f7892f3ed10aac8525bc930fa4ac671714a04"
+hash = "36d3f5054974aa0abfd8edb01d7b99d41497c90559e52485dbc0d1e420f4bba0"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+hash = "603e4d77cd5ee641515822d3319bf86b09f03671628e705cdf2f93af95f9214f"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
+hash = "70dc9abe83d7c369d9c349f8b5a188984de24d1e98d282fdb173bf06b845a76b"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+hash = "931b0da77e9c5c38c2cde7f01e81136c35c618aacf71cc227ade27d76137e4e5"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
+hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
 metafile = true
 
 [[files]]
@@ -399,12 +399,12 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "05f1af7279a9c9c21e4d3a5ffd2ba0816b8cad9011132da810bbfc79cc468a88"
+hash = "85badabfec7e34af10beaa4983ffe2c4fcfdfd90588bbd87dc798c812f908aad"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3d4e09db818e622bdaf1ca38dde12b7412b7c6cdab893806cdd1920abe909aa8"
+hash = "85ebe0d8d1f0f6bd943c1a87f5df47869fde7ede4d9d0bc90a2aff13a760c5dc"
 metafile = true
 
 [[files]]
@@ -424,12 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "380c28c782f6114f217a87fa3a5bfce6359fbe24d46ea8ce9893880dc07ecfcf"
+hash = "3b96c3da3b031ee9cced8f0e0d93f7fcc2943a4e488a53485ec95836bc8b5e86"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/theones-eating-animation-pack.pw.toml"
-hash = "6b681263dd5446942daad11d634e9f61c847aa865486adec890d0b228da56faa"
+hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
 metafile = true
 
 [[files]]
