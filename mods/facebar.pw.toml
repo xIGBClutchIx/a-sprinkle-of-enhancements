@@ -1,13 +1,13 @@
 name = "facebar"
-filename = "facebar-0.1.0.jar"
+filename = "facebar-0.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3p7KwtVF/versions/1AZjr9Zk/facebar-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/3p7KwtVF/versions/PnF4xGYS/facebar-0.1.1.jar"
 hash-format = "sha512"
-hash = "a521fac3f1a048083d55097130f8f121092936da28c63a8c9e8adf2c4c80e5807636c60ea29574be0ee90e5bf62f2f74e4542f07c55ba3505593837b7cc0e964"
+hash = "b6b066ef8fab83b71f6adca49c890e90e36bb3a2249e949d858d7d1e698debcf1b5a1c24645e78cf68449c6f0f89d133205da9a048456c85febc5724e78b49b9"
 
 [update]
 [update.modrinth]
 mod-id = "3p7KwtVF"
-version = "1AZjr9Zk"
+version = "PnF4xGYS"

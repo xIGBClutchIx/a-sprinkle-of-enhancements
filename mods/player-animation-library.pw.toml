@@ -1,0 +1,13 @@
+name = "Player Animation Library"
+filename = "PlayerAnimationLib-1.0.12+mc1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ha1mEyJS/versions/JAOEzLIR/PlayerAnimationLib-1.0.12%2Bmc1.21.9.jar"
+hash-format = "sha512"
+hash = "aaae4773f428106626850f34c8276a0e49bbc92e0a47a3c7d99c58742f1715334f150f7b50111c8d034e2921edd0005bbdda3300a64e783b7ae18c96eb7ae2f2"
+
+[update]
+[update.modrinth]
+mod-id = "ha1mEyJS"
+version = "JAOEzLIR"

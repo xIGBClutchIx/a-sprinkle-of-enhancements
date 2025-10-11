@@ -1,4 +1,4 @@
-version:4325
+version:4556
 ao:true
 biomeBlendRadius:7
 enableVsync:false
@@ -23,8 +23,9 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:12
-simulationDistance:12
+cloudRange:128
+renderDistance:16
+simulationDistance:16
 screenEffectScale:0.0
 soundDevice:""
 autoJump:false
@@ -35,6 +36,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 discrete_mouse_scroll:false
+invertXMouse:false
 invertYMouse:false
 realmsNotifications:true
 showSubtitles:false
@@ -43,6 +45,9 @@ touchscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
+toggleAttack:false
+toggleUse:false
+sprintWindow:7
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
@@ -51,9 +56,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Faithful 32x - 1.21.7.zip","file/Theone\u0027s Eating Animation Pack v1.01.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
-incompatibleResourcePacks:["badoptimizations","trender","txnilib","waveycapes","file/Theone\u0027s Eating Animation Pack v1.01.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
-lastServer:
+resourcePacks:["vanilla","fabric","file/Faithful 32x - 1.21.7.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
+incompatibleResourcePacks:["file/Faithful 32x - 1.21.7.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -77,6 +81,7 @@ attackIndicator:1
 tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
+allowCursorChanges:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
@@ -85,11 +90,14 @@ syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
+saveChatDrafts:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 menuBackgroundBlurriness:5
 startedCleanly:true
+showNowPlayingToast:false
+musicFrequency:"DEFAULT"
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -111,10 +119,12 @@ key_key.togglePerspective:key.keyboard.f5
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.h
+key_key.spectatorHotbar:key.mouse.middle
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.c
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
+key_key.quickActions:key.keyboard.g
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
@@ -125,15 +135,20 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.autorun.toggle:key.keyboard.r
+key_key.emotecraft.fastchoose:key.keyboard.b
+key_key.emotecraft.stop:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_key.sit!.toggle:key.keyboard.unknown
+key_key.sit!.sit:key.keyboard.y
+key_key.sit!.config:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.v
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.j
-key_key.voice_chat:key.keyboard.b
+key_key.voice_chat:key.keyboard.u
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.i
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.semicolon
@@ -150,6 +165,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
+soundCategory_ui:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

@@ -1,13 +1,13 @@
 name = "AutoRun"
-filename = "autorun-mc1.21.5-v1.2.0.jar"
+filename = "autorun-mc1.21.9-v1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/7AdQH4kf/autorun-mc1.21.5-v1.2.0.jar"
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/tpqvVklC/autorun-mc1.21.9-v1.3.0.jar"
 hash-format = "sha512"
-hash = "06ad7658f78cf08f0fda8c3738f7d1ca5da02625800dd90e37726793ebd4dfbbb9f39016539ae42540c2e3c7ae4b756c83412f1b7f3c5daff5040732eb70ea2d"
+hash = "c39377f1e2cdd78399678b3bf359e6cd111a006dc9f90335825cfb491dff0cff61ece25f342f5e3ccc5a8faca360b138e1d9a80310956c8ea2efcc738c335e5e"
 
 [update]
 [update.modrinth]
 mod-id = "2i7tg1Wv"
-version = "7AdQH4kf"
+version = "tpqvVklC"
