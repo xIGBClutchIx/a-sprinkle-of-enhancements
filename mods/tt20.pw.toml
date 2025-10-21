@@ -1,0 +1,13 @@
+name = "TT20 (TPS Fixer)"
+filename = "tt20-0.7.2+mc1.21.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YS3ZignI/versions/Htc1MpMN/tt20-0.7.2%2Bmc1.21.9.jar"
+hash-format = "sha512"
+hash = "c06b5cdf4f70058ec99708be39f71887a76c21d1768dcf8eeddb14f258b016cc914d118c5134b73e56cb56b53455327faed43aea19125a41094188c1bb6d0f5b"
+
+[update]
+[update.modrinth]
+mod-id = "YS3ZignI"
+version = "Htc1MpMN"

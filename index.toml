@@ -233,13 +233,8 @@ file = "config/waveycapes.json"
 hash = "81d7692437301b8b307bfb0d0513bc832c946174729b8758783447549b3db77e"
 
 [[files]]
-file = "mods-disabled/distanthorizons.pw.toml"
-hash = "03d1bbd443c88f2948a7295a49fb7114e07b61bb777188630718eae3635ce1a8"
-metafile = true
-
-[[files]]
-file = "mods-disabled/flashback.pw.toml"
-hash = "9dd48a37820ea9287e16bb6685540b91cd23cc02eee51675698be1e98f51627a"
+file = "mods-disabled/bobby.pw.toml"
+hash = "6088be62ff0bc4e93388ba995418a376a1b7dfd062cce84bc36349b34ffa4af6"
 metafile = true
 
 [[files]]
@@ -259,17 +254,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "ae86765993c59b09e06f972045b8f780e06c504f5210c0991a3b27b95dfacc80"
+hash = "ff991657ef2511d8f02a9999d55ec367a37b20a3987eb1d75ff82ba720a96aa5"
 metafile = true
 
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8ef7235675c71f938772fe5683b1b56cd952d3865a66cfd02dc8f3707d7f72b3"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "6088be62ff0bc4e93388ba995418a376a1b7dfd062cce84bc36349b34ffa4af6"
 metafile = true
 
 [[files]]
@@ -279,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "368b538e311c20808f1914e79813285259715b6cebee22484c53be233e1e8553"
+hash = "4a9910d74bb7a85600abaf36ae568bcfb10e76062b9d5d718656f5d172e79419"
 metafile = true
 
 [[files]]
@@ -308,13 +298,18 @@ hash = "42e4f4862d349203b535dc1b2fe775efecb736ae4c7cdfa1a1ceff0a59b5831a"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "19bb3ae41c042df12119445f2875482720deb9d0c88fe0824e453fbe7e43deec"
+hash = "b55a72d656b18083937a2a94f599481133b5932030e8562e15c7334787523b92"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
+hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
 metafile = true
 
 [[files]]
@@ -340,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "e56ab572b86cd0f11f62baa45556a21cf767197a6f028d967814166b10ed3784"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c25952ddfaeb2c72f927d27c31d8d5fdf3bb391745c27a8f08397cf5664beeda"
+hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "8808ad22f81d7b13c217064b4b0f88399a5f434fcf88b4597119ad698419f3a9"
+hash = "848aa60947d5f86c8384b9f31465dd2476146072c0a266315c2e2db01868a0c7"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "133eee6251d9ef66c02acc1e4cff77a63883add5dfd508d014d6df3b41e3f6b4"
+hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
 metafile = true
 
 [[files]]
@@ -450,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "a1d33464246ce3bf62e92de9c366087632f6cd3cd4f3d0587cc22d15c2ef2faa"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "d039768c39de4e27eb317c590dc65e16b5c9afddd402089227617a03f58a9db4"
 metafile = true
 
 [[files]]

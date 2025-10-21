@@ -1,12 +1,12 @@
 name = "A Sprinkle of Enhancements"
 author = "xIGBClutchIx"
-version = "1.21.10-v1"
+version = "1.21.10-v2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f26f326047e0d03bf4a69f27329b8bc9450c76fb6bc26c82aadde7b84dc53437"
+hash = "d94aaf01313f60ac34beaf59932ad8c750bd4654fdf92fe6a0e4e5594ce17bd5"
 
 [versions]
 fabric = "0.17.3"
