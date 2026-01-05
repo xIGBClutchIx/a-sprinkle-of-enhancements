@@ -56,8 +56,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Faithful 32x - 1.21.7.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
-incompatibleResourcePacks:["file/Faithful 32x - 1.21.7.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
+resourcePacks:["vanilla","file/Faithful 32x - 1.21.11.zip","file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
+incompatibleResourcePacks:["file/Default-Dark-Mode-1.21.6+-2025.6.0.zip"]
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0

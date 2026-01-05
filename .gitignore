@@ -3,3 +3,5 @@
 
 # Exclude VSCode settings
 .vscode/
+
+.packwiz-cache/

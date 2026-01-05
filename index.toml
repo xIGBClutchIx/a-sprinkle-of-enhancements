@@ -1,12 +1,220 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".cursor/rules/changelog-generator.mdc"
-hash = "84c6f69d7917f971979a30680871e44620643e42067ea2cbfa207943745c0a0d"
+file = ".packwiz-cache/index.json"
+hash = "f0652e13cd5a086b49232f35b5d1d8814f0d0e1b0f6a9f6756835c4bb9622310"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1077568611"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1089858295"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp128782521"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1363085301"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1442983297"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1473510103"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp154852672"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1640420210"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1661967768"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1754597701"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1800699698"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1807100519"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp1941979714"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2110335794"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2199478706"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2202133273"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp224957291"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2287151773"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2398985349"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2444141154"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2477312360"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2565397095"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp257323376"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2591334403"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2628252275"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2642397311"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2679317566"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2695800937"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp282887416"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2866869578"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp2880823465"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp328456282"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3303731690"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3316564227"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3454332435"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3473515244"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3575825326"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3627330921"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3695960343"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3776680906"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3788053983"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3886524340"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp3927986321"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp4043580934"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp4059696773"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp4118003220"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp4258914085"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp443839178"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp566608093"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp809069482"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".packwiz-cache/temp/download-tmp848391567"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = ".vscode/settings.json"
 hash = "990793f4ffa4ad9dca42d72715aa8b25cc01a217c98adc62153bf08d93974efc"
+
+[[files]]
+file = "AGENTS.md"
+hash = "45f5edcf5294e2cdcc8f99ad63bb17be3eae1588ee56512b19e56ea19fe3a94f"
 
 [[files]]
 file = "README.md"
@@ -233,28 +441,18 @@ file = "config/waveycapes.json"
 hash = "81d7692437301b8b307bfb0d0513bc832c946174729b8758783447549b3db77e"
 
 [[files]]
-file = "mods-disabled/bobby.pw.toml"
-hash = "6088be62ff0bc4e93388ba995418a376a1b7dfd062cce84bc36349b34ffa4af6"
-metafile = true
-
-[[files]]
-file = "mods-disabled/wavey-capes.pw.toml"
-hash = "e55c90ed7bbc257b1eeb89e790c8eb12ce56fa752347649f8a2387fd39bfc8b8"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
+hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 metafile = true
 
 [[files]]
 file = "mods/autorun.pw.toml"
-hash = "082d9fca25b239ce4c6db0e4ea41dfc168aacc147b4b5dc369b291c2b5f75fc8"
+hash = "871d2663bbfd36e934cf39259c8319a6fcbd5298d3ffb4ad846d06ea6d800210"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "ff991657ef2511d8f02a9999d55ec367a37b20a3987eb1d75ff82ba720a96aa5"
+hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
@@ -264,17 +462,17 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e02c60e3243dde712fcdc279f0ee21d31f530d58f11402c0fcb082bb429e339d"
+hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4a9910d74bb7a85600abaf36ae568bcfb10e76062b9d5d718656f5d172e79419"
+hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -284,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
@@ -299,67 +497,67 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "b55a72d656b18083937a2a94f599481133b5932030e8562e15c7334787523b92"
+hash = "a310f267a6bfd99c7ac71836f7d42ebcabf77b621929d23d6121ab3e49ed47bf"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
 file = "mods/facebar.pw.toml"
-hash = "e411d3eaf156c09a380c3d99842201e412174fe2c5c2053b617067fb5e1c9263"
+hash = "b19738bcc145d4a8bcdedc6ad1e77267ca9279689df6d43eb8ea2cab9823f6c2"
 metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "0df5b608f6521692c1434583a92f944e303881dbad0fcd98a5b5d37d7c22367a"
+hash = "c698766bdbac77ecb3ea9b9bb832cd625f6cf04f60fa0df851a5737bdffa8268"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "c9babfbb0db58f9edfc38666af8ef4ce24fe0cd0594d3c421bb51410fb6c3fa2"
+hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "e56ab572b86cd0f11f62baa45556a21cf767197a6f028d967814166b10ed3784"
+hash = "544eaa2ff476c609cbfd4487fcdd09feda5f9208f1976bf3ceb4fbe4e3bb0e27"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9a8c273d0efcf679d04d77ab37521c05978caff642a6c2b867d2fa2cdc8b168e"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "f3c666b7a4140f9944920c8279ba897feb3e7ec48086d9b10862ea9b012aeacb"
+hash = "b5a01826b0ec0ea8c8e1fe0eab064729c0b532b738788cc93eed03ca5c897cb6"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
+hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
 metafile = true
 
 [[files]]
@@ -369,52 +567,47 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "ceadd493611f2ba6e1fd0d323db2200d7dfe99930631c3eda91279e7493e609e"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
-hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
+hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
+hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
+hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
 metafile = true
 
 [[files]]
 file = "mods/otterlib.pw.toml"
-hash = "659fc4e0c38fd1e7b80ab595532c6a800b575f0e7081a3e58f075be60e9b8c98"
+hash = "a7aaa19d5a9df2b847686f17f8bdd80ded4097a3880fb89a30175a14ae45c5e2"
 metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "848aa60947d5f86c8384b9f31465dd2476146072c0a266315c2e2db01868a0c7"
+hash = "255328a49b5dbf428a2b2abdfbf085e9724e3da9eab498abfbc8372ba5a65cec"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
+hash = "383d8df46529ce54b4b0574be2fd9eba4f45d8c85aa668604e152fca3e439f5a"
 metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "fb366bf83c141ee784428b33ff93765f87e24b6492a0e691bd52cc659ea6f960"
+hash = "db278da4715600e9b96dfd79437f9cd70c5dfb7502be462dff790d570a9fb003"
 metafile = true
 
 [[files]]
@@ -424,37 +617,37 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "060322f5b2e3a12666d5b175fc2df7dc9cfcd02231950ba33fc1c0b1325a4ef7"
+hash = "74be0b1016b6ed8a42c1b819af90393c2c74ac7e43248508d03ab7d7b6d55a07"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
 
 [[files]]
 file = "mods/sit.pw.toml"
-hash = "6893fb1a7795da5698057a99fc8fe7f863fc8897a517627908e843ec47670335"
+hash = "fabef06432bcdff326ed20419e5d75ae516d653736a8203b7177b67ef0df6e39"
 metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "691780e633131e2129723b2892600a839d90a73a76dc8191933179929ee706a4"
+hash = "3dbc1be24034916348b848d3aa7b4850a3ce091cd5f0ea37e1d1ccba3be5ef85"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "a1d33464246ce3bf62e92de9c366087632f6cd3cd4f3d0587cc22d15c2ef2faa"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "d039768c39de4e27eb317c590dc65e16b5c9afddd402089227617a03f58a9db4"
+hash = "7390523148f7aa693093187cb9406bfe1a7b4c8d7afd0fe830b7a1aa0dd03040"
 metafile = true
 
 [[files]]
@@ -464,12 +657,17 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "8861c0827d996f379eb2ed607d39f8e1357c06737f52523ce4510e3126baedcc"
+hash = "97d395207a6d63fdba5125c099904baed7d6ceab7267db4b87fb6aa9452e675a"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "3f5679e5212d0cb5e6700b4d13001d435e60fb9151121e01f83d9f10d296eba5"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f3fa9d5fd3b2232ff46647dc5acf9cb2d5d7bd2e1d1f6d1c1c33b91dadb46808"
+hash = "6d1066d790506e15033557569ceef08543bfc70dd7c085c107c505c075e09367"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
@@ -478,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "7eb818b2376ce88bd7c76ee086447a33d754d02cc773de877652a6daed66c3a5"
+hash = "aadb81ceab01fef5e667300738edfb8d8f73a3380e1b4ecc39ed72e925199a7d"
 metafile = true
 
 [[files]]
