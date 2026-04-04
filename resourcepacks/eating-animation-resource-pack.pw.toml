@@ -1,0 +1,13 @@
+name = "Eating Animation Resource Pack"
+filename = "Eating Animation v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xOCLHTN8/versions/DQQNYLfR/Eating%20Animation%20v1.1.zip"
+hash-format = "sha512"
+hash = "b8ce53f7c0fbf6e385046736f1bdc0abe8cdb481980f3fd06466aa6fa1d514bb66943fc7d090db500e26280f35741f74fff740c8a3fc7f3a0c48c9efb8fcb0dc"
+
+[update]
+[update.modrinth]
+mod-id = "xOCLHTN8"
+version = "DQQNYLfR"

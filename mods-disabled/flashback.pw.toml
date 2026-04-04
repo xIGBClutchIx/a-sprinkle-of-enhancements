@@ -1,0 +1,13 @@
+name = "Flashback"
+filename = "Flashback-0.39.3-for-MC26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4das1Fjq/versions/VaqZB1DF/Flashback-0.39.3-for-MC26.1.jar"
+hash-format = "sha512"
+hash = "7146153fa72063139a5a7ea0c72495dbddc619d67381d3fed068924a71e6bcf2ac03e316c15417beec5c02bc8469659f783fca6bd3d36c72a73ad4714a6a32dc"
+
+[update]
+[update.modrinth]
+mod-id = "4das1Fjq"
+version = "VaqZB1DF"

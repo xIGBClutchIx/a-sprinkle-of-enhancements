@@ -1,0 +1,13 @@
+name = "Borderless Mining Revived"
+filename = "borderless-mining-1.1.10+26.1.1-dirty.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kio1kLH4/versions/tBzQEU5t/borderless-mining-1.1.10%2B26.1.1-dirty.jar"
+hash-format = "sha512"
+hash = "9f36b1a50116b03c5c235527e7b65856ae14a9dae74a712dbb1c2a5ebb4c9faa6872ee5bc662f41cd81303c3d3f914d1c6bcfeb9f5d296409232dac48bd87fec"
+
+[update]
+[update.modrinth]
+mod-id = "kio1kLH4"
+version = "tBzQEU5t"

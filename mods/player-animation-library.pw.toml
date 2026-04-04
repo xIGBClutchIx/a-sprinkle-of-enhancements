@@ -1,13 +1,13 @@
 name = "Player Animation Library"
-filename = "PlayerAnimationLibFabric-1.1.4+mc.1.21.11.jar"
+filename = "PlayerAnimationLibMerged-1.2.2+mc.26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ha1mEyJS/versions/OZcHzZ6a/PlayerAnimationLibFabric-1.1.4%2Bmc.1.21.11.jar"
+url = "https://cdn.modrinth.com/data/ha1mEyJS/versions/XVZlFrOK/PlayerAnimationLibMerged-1.2.2%2Bmc.26.1.jar"
 hash-format = "sha512"
-hash = "a9ed9cd9a1ac7a83ef7b06cc9898f9f13cb5400d45dcc47af12a93b1cf91748b943615c0aaa390d5dee500c58648981711f2e14169be2470ee329318e089500f"
+hash = "eee0695b6fe2f66174e73dd81bed1f020f4cd8ccb1463095c7bc51765cff69de994d03312a97b71c32dbfe54501a60aea72d530b5f2690f97f77beb8fcf6684a"
 
 [update]
 [update.modrinth]
 mod-id = "ha1mEyJS"
-version = "OZcHzZ6a"
+version = "XVZlFrOK"

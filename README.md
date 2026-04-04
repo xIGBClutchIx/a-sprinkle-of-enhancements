@@ -1,51 +1,52 @@
 # Modpack Overview
-This modpack is just your normal optimization-based modpack with a few visual adjustments such as shaders, falling leaves, faithful resource pack, dark UI pack, eating animations, autorunning, and includes a realistic sound reverb mod!
+This modpack is an optimization-focused pack with a few visual adjustments such as shaders, falling leaves, the Classic Faithful 32x resource pack, a dark UI pack, eating animations, autorunning, and realistic sound reverb.
 
 Everything you see in this pack should work completely fine on Vanilla servers! This modpack will not add anything such as minimaps or other things that go against the spirit of Vanilla Minecraft.
 
 # Mod List
+* 3D Skin Layers
 * AutoRun
 * BadOptimizations
-* Better Beds
+* Better Block Entities
+* Bobby
+* Borderless Mining Revived
 * Capes
-* Clean F3
-* Cloth Config
-* Continuity
-* Cubes Without Borders
+* Chat Heads
+* Cloth Config API
 * Dark Loading Screen
-* Dark Title Bar
-* Distant Horizons
+* Emotecraft
 * Fabric API
 * Fabric Language Kotlin
+* facebar
 * Falling Leaves
 * Fast IP Ping
 * FerriteCore
 * Forge Config API Port
 * ImmediatelyFast
 * Iris Shaders
-* KennyTV's Epic Force Close Loading Screen
-* Krypton
 * Lithium
 * MidnightLib
 * Mod Menu
-* Model Fix
 * No Chat Reports
+* Not Enough Animations
+* OtterLib
+* Player Animation Library
 * Reese's Sodium Options
-* Remove Reloading Screen (RRLS)
+* Remove Reloading Screen
 * ScalableLux
-* ShulkerBoxTooltip
+* Shulker Box Tooltip
 * Simple Voice Chat
+* Sit!
 * Sodium
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
-* TxniLib
 * ViaFabricPlus
 * Wavey Capes
 
 # Resource Packs
-* Faithful 32x
 * Default Dark Mode
-* TheOne's Eating Animation Pack
+* Classic Faithful 32x
+* Eating Animation Resource Pack
 
 # Shader Packs
-* Complementary Shaders v5 (Unbound r5.5.1)
+* Complementary Shaders v5 (Unbound r5.7.1)
