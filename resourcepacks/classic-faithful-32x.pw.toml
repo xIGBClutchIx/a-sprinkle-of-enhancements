@@ -1,13 +1,13 @@
 name = "Classic Faithful 32x"
-filename = "CF32PA-2026r7.zip"
+filename = "CF32PA-2026r8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bkFF9W8s/versions/nSfnN8SP/CF32PA-2026r7.zip"
+url = "https://cdn.modrinth.com/data/bkFF9W8s/versions/FOFshcFG/CF32PA-2026r8.zip"
 hash-format = "sha512"
-hash = "ffee8977532375df6bdf1e90a5604ea57b63b38acf3a468420affca29c77bfdfa2973707c386c1cb257b1ff3d9095052808ad3753d95eaf20c7273dfcb7a1e1c"
+hash = "a4b0a3079dacd5e0c0276cf49fb20257e57c151f372c6ed29aa86d0962ee848a3dc2ac638351ac60add8d479760e74882d16498bf23c1661b533324f70a8e1c4"
 
 [update]
 [update.modrinth]
 mod-id = "bkFF9W8s"
-version = "nSfnN8SP"
+version = "FOFshcFG"

@@ -56,7 +56,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/CF32PA-2026r7.zip","file/Default-Dark-Mode-26.1-2026.4.0.zip","file/Eating Animation v1.1.zip"]
+resourcePacks:["vanilla","file/CF32PA-2026r8.zip","file/Default-Dark-Mode-26.1-2026.4.0.zip","file/Eating Animation v1.1.zip"]
 incompatibleResourcePacks:[]
 lang:en_us
 chatVisibility:0

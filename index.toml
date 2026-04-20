@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "05d17eb401de3f893b23b7f3865998d43def4efb3475135640bd990da379bbe3"
+hash = "4b1336b80879f11fa112d0f83e3543f962cf5264d7e5c4757a3400c37e249ca5"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "8e0b389bbc53221662193ef5340b8d4db3982044015009a3e3aedc24bb1f0066"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -233,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
+hash = "56ab33230daa33839c1aca1c6c71ffdda1e4794ebcbcb2bc15fcd51a6a44df99"
 metafile = true
 
 [[files]]
@@ -262,8 +266,8 @@ hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "e2b9e0a8148ae25b2946d9a9831768f0b482853b27003ee196dd9d6cd93b99cd"
+file = "mods/distanthorizons.pw.toml"
+hash = "bc23652292fb54e0b9a887f3686a421121cf41be64974241d537a6d46b0bfeb9"
 metafile = true
 
 [[files]]
@@ -273,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "667420ac98bdf5f6f7e747b83f9407722586e0c15b635ad295bef55449498474"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
@@ -293,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "6229ae9932b3bc69118a20cf1bbaa2653f610e1d9b7d582bb6963dc46b63c725"
+hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
 metafile = true
 
 [[files]]
@@ -323,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
+hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
 metafile = true
 
 [[files]]
@@ -363,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "d3be8f3f4d14bb2878babdb90a320f0c6b8373fd547eef41ac37f69709c4d62f"
+hash = "cd028f3e8551c63268306ae679bbfa6d6a5d7a22e29853773bbb31e78100fbbb"
 metafile = true
 
 [[files]]
@@ -402,6 +406,11 @@ hash = "7560a0a8d7737d587fc2e3484e5573a743988549c2ce5f24746f8ea816cad5c9"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "4acc45374f5b9b2e4f851aca27b8118a398de34c2b42e815e555b5142f2daa77"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "7eb6db89af1718387e764fc9a22d9971a0af14ed89c243a98a334b9523d56b15"
 metafile = true
@@ -413,11 +422,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e5eab5ebaf4da7f5a43020fe3a3e4573684c4c895ad80fc9bfa119a9ec1c03ae"
+hash = "b641c647e48e78d28076d0bb583aa2fa1b4cad8d191aa43b398e929fbeb697e2"
 
 [[files]]
 file = "resourcepacks/classic-faithful-32x.pw.toml"
-hash = "a0eda8240875e1897e83532deb845cbc989293b9b4ac5e1df2a8dd0dd8d2874d"
+hash = "8499a16274f3507dbb17be8ff069252dc25c955644aff495ef50d577843a7066"
 metafile = true
 
 [[files]]

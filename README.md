@@ -13,7 +13,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Capes
 * Chat Heads
 * Cloth Config API
-* Dark Loading Screen
+* Distant Horizons
 * Emotecraft
 * Fabric API
 * Fabric Language Kotlin
@@ -21,6 +21,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Falling Leaves
 * Fast IP Ping
 * FerriteCore
+* Flashback
 * Forge Config API Port
 * ImmediatelyFast
 * Iris Shaders
@@ -40,6 +41,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Sodium
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
+* TT20 (TPS Fixer)
 * ViaFabricPlus
 * Wavey Capes
 

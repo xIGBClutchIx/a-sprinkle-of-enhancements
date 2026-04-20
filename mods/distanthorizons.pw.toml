@@ -1,0 +1,13 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-3.0.1-b-26.1.2-fabric-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/oIitqzZi/DistantHorizons-3.0.1-b-26.1.2-fabric-neoforge.jar"
+hash-format = "sha512"
+hash = "d0ff26d249fe943b2d8f24822909cfacb6e085a57b4c36d441dd9f66f2a9d3bfa393961398feaa47d649a466d774658f7d35a125f158c3fca5d7920c1502bf7b"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "oIitqzZi"
