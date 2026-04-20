@@ -3,11 +3,11 @@ filename = "sit!-1.2.6.0+26.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/IlNcmR6y/sit%21-1.2.6.0%2B26.1.1.jar"
+url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/HztkP6GQ/sit%21-1.2.6.0%2B26.1.1.jar"
 hash-format = "sha512"
-hash = "17e0555a48423f363d1daacd8c8aa1333e1c7266df106e9c24fd6f004f9d45eaf94e967ec0c84ff2ede09e0d5130d1c488527e6df3cea7c2f68403b28357a750"
+hash = "a73231af1361f264e06537e3a420728c8016440a49eda20c86e8644f5d220a75f220b9ba528ef8daaf5383d9e2a65799df54837560ca796b0e2ba2718665c82e"
 
 [update]
 [update.modrinth]
 mod-id = "EsYqsGV4"
-version = "IlNcmR6y"
+version = "HztkP6GQ"
