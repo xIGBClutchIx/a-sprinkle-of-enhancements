@@ -1,13 +1,13 @@
 name = "facebar"
-filename = "facebar-0.1.3.jar"
+filename = "facebar-0.1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3p7KwtVF/versions/uzfNieta/facebar-0.1.3.jar"
+url = "https://cdn.modrinth.com/data/3p7KwtVF/versions/arkQlBMH/facebar-0.1.4.jar"
 hash-format = "sha512"
-hash = "a79eaad890137962be27df40697e1103343f9c96da07828a44ec11503e0a0e902eb576d437c69c215f91a67a6e288fea5c4e4de8d24429f5ab0b5e1438c776a0"
+hash = "5a455b3c29a7c9a1ffaa1828611bfbef9636487422adc3ed5dfcbac156f8d0142a563aec4db675e75dd599d4d9ab58441ea6824afa59374922ecb42973235005"
 
 [update]
 [update.modrinth]
 mod-id = "3p7KwtVF"
-version = "uzfNieta"
+version = "arkQlBMH"

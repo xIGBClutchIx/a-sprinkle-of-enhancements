@@ -1,16 +1,16 @@
 name = "A Sprinkle of Enhancements"
 author = "xIGBClutchIx"
-version = "26.1-v3"
+version = "26.2-v1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "274373b6c40e8b4f63c71129fc5e47f775510c4aa1974f11c0ddf986fb5f92dd"
+hash = "adb4fc60c1bfcd066cd9f2fd5773d81968a6e603b498cf62273f75ef60d11cc8"
 
 [versions]
-fabric = "0.19.2"
-minecraft = "26.1"
+fabric = "0.19.3"
+minecraft = "26.2"
 
 [options]
-acceptable-game-versions = ["26.1"]
+acceptable-game-versions = ["26.2"]

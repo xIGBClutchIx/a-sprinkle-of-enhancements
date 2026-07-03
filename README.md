@@ -9,10 +9,10 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * BadOptimizations
 * Better Block Entities
 * Bobby
-* Borderless Mining Revived
 * Capes
 * Chat Heads
 * Cloth Config API
+* Cubes Without Borders
 * Distant Horizons
 * Emotecraft
 * Fabric API
@@ -51,4 +51,4 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Eating Animation Resource Pack
 
 # Shader Packs
-* Complementary Shaders v5 (Unbound r5.7.1)
+* Complementary Shaders v5 (Unbound r5.8.1)
