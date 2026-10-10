@@ -137,10 +137,6 @@ file = "config/sodium-shadowy-path-blocks-options.json"
 hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
-file = "config/sodiumextras-client.toml"
-hash = "08ec828ee0b747206bbad9ff660e315a15e7d47064cda4a608659d5ba13cdacc"
-
-[[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
 hash = "fff260cfda3ce4308c8bfb89a109ff7c34a45fdbe90ca480b2ad5caa6976def0"
 
