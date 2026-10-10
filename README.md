@@ -17,11 +17,11 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Emotecraft
 * Fabric API
 * Fabric Language Kotlin
-* facebar
 * Falling Leaves
 * Fast IP Ping
 * FerriteCore
 * Forge Config API Port
+* Head Locator
 * ImmediatelyFast
 * Iris Shaders
 * Lithium

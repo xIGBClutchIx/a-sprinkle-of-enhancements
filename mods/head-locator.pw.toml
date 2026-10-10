@@ -1,0 +1,13 @@
+name = "Head Locator"
+filename = "headtracker-0.3.0+26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "19369ac85b4ed1292e1586feae054ccc5a7cb063"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8663043
+project-id = 1625139
