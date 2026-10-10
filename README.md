@@ -13,7 +13,6 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Chat Heads
 * Cloth Config API
 * Cubes Without Borders
-* Dark Loading Screen
 * Distant Horizons
 * Emotecraft
 * Fabric API

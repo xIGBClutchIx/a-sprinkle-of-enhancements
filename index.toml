@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "1ba058e4ca89ba22196a58c22f910c6e8f0926368448ff66886e7e9dbb1e78ec"
+hash = "a74e261bc393c1637ed7acc4cf6693e98c72eac1d468588b6fa26222005b21a9"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -259,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "aefe62738c2529d74df605f73576dce1c3e58d3920190de8f98f099d09ea0217"
-metafile = true
-
-[[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "164b268ddadebb184f7e83874dc73a94873d33226fa53c9c8115954627ca4148"
 metafile = true
 
 [[files]]
