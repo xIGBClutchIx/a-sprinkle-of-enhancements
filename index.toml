@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8045a5277deeeea4fa36c4aea9a8819d897523c1d9dbc7946b1328b91cf38d8a"
+hash = "b5eb543ec815c972012d8dcce0e16183b152fa7f662c393c94c2c0545375a22b"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f2bc731deddd073d0a6e9f5afc9d69c4b8491e8023f042b47da40f98cdea7b39"
+hash = "ce3047cbe11ea63c29dc9234a1336c3ec029b11615f823be778461b4ab3ac911"
 
 [[files]]
 file = "resourcepacks/classic-faithful-32x.pw.toml"
@@ -430,8 +430,8 @@ hash = "b14e8bec2b22144a61f26428b8b90503073ef9bac5d0e8446a018dd60b25f407"
 metafile = true
 
 [[files]]
-file = "resourcepacks/eating-animation-resource-pack.pw.toml"
-hash = "2c421e4c23b1f9eb1394a0b2a4a20f0a3d7fb922e11353c13495d84d12ed09bf"
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "a48470e118347bd5a5e85e2545eccf7c47912b92d8a81ee8047e9f5a90bcda5a"
 metafile = true
 
 [[files]]
