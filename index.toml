@@ -30,11 +30,11 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/autorun.properties"
-hash = "dc5e49b748150e48e5be1472887fcda1255c7c5582af706a2cbc9f776bb3332c"
+hash = "21ea3b70a716aa34a83fa974e3fa50315c373f04d9f833f7403c33844338b7ba"
 
 [[files]]
 file = "config/badoptimizations.txt"
-hash = "9f56bd826fea6a8c6d68db34b09218e9c66154b82854150f954ddf56ec80f439"
+hash = "9a78f6fee180ae4d08ea99f9eaba3ec00ee06887f1d171152b44f4de3596ee34"
 
 [[files]]
 file = "config/capes.json5"
@@ -42,7 +42,7 @@ hash = "b654cbb5019c63c7824286269676c1f9e9198d8f5bcfabe8b8691c529ecc4e5e"
 
 [[files]]
 file = "config/chat_heads.json5"
-hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
+hash = "c4ded6c35e13a43be9e80a253f05f345dc92595717059400c7c18025317f4315"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -58,7 +58,7 @@ hash = "90e765866cc73cb352c9c06bed8b3d36b1a2a0dc111396b3c54ec9cfce030ea6"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+hash = "fc4d7a195210fb6d32cdfc5a255b6d555ab0225da1a929b61d17dd6b5648c2ba"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
@@ -66,7 +66,7 @@ hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "f4933d24a5acc79d5a54716d914ad499a49cb3083130fd994874d9efa686f580"
+hash = "351554b5d847acfb0dcdd05a93b5b93f27035178bcbde4d5193b4dc5a5a2f11b"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -94,7 +94,7 @@ hash = "efeeec78f15b9cf25d1c418a3f7ce9a61e050c3122b718d8cc84a7968da7c237"
 
 [[files]]
 file = "config/scalablelux.properties"
-hash = "aba38f4b288a74d55245e80bcde77b38d40477caca56f56297f568dcee7c52c8"
+hash = "e71619fff970448d717384a14b12ef8f9762029dacff05a272c0600887bee319"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
@@ -106,7 +106,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "c9df3ae30ed2f7be107aa1dd2bfdfc44e644d02ed11b409bed529ce1221a9aef"
+hash = "991183d04c6fd97a413784b0bef21ef26b9197b7b732c709723b6c6178ee4b3e"
 
 [[files]]
 file = "config/sodium-shadowy-path-blocks-options.json"
@@ -134,7 +134,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/viafabricplus/settings.json"
-hash = "2607d1083c0d6a1b4388d76a45ab8afa19e48d7c1987b60e62022ccdeb6a97d5"
+hash = "f536fefde166510972a10e2ccde9636a4ebd725813f2be89ed04c7f7fdc032f6"
 
 [[files]]
 file = "config/viafabricplus/viaaprilfools.yml"
@@ -142,11 +142,11 @@ hash = "44c3afa2f8138aae145e5ab9554cc75be3a7cbf19afee31ce233fc9eb4e08993"
 
 [[files]]
 file = "config/viafabricplus/viabackwards.yml"
-hash = "27998d40a13a2b95a7f689d0a5eb383793c34af4c40c3c1aac00cf48896e798c"
+hash = "042e1fed6af642b7efaf00e359de20a81302c13083b69ba2933dfd09dbc81b7f"
 
 [[files]]
 file = "config/viafabricplus/viabedrock.yml"
-hash = "7c113df67faa235d83ddcbb69d0e62beef6d7b110cb2f3d55f6494d54df70222"
+hash = "faa2318294e9ae0ded2d836be486c2ffb184f7831d6c2594c501a6b5779369d4"
 
 [[files]]
 file = "config/viafabricplus/viabedrock/blob_cache/data.bdbd"
@@ -162,7 +162,7 @@ hash = "3c8e3c8cc81284f56e9e7e1209dc6a4eabdedcb15beffcf0830fbf4f5946acd3"
 
 [[files]]
 file = "config/viafabricplus/viaversion.yml"
-hash = "a747cf4ea25c6e65a02f86fa8a227cbd9816fbe98c5e9fa4de5c39d423e1c6d1"
+hash = "6a26130ffd1d99ced3f90085e300d293361c331221a3f9f4e624b527274488e8"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
@@ -182,11 +182,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "15495b570bb82e125cb200ff4c3cf3b0a22846cc02dba0577ae18403d15cb01a"
+hash = "a722b521754b2a764d792f30a9e6f6410a66b6133a01295238a8723fa1992bd9"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "5e134e803274172d549b7e95966ac86e5483dc200784778d6e9968bcc74e859c"
+hash = "2ce22db43d2e814ab773b3afe4678ec7027ec5bcc913aa3f99f2b674cac9d78c"
 
 [[files]]
 file = "config/waveycapes.json"
