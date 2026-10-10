@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "454789e463b321a304c0c79882138c8d78d1ed5bacfa829d762b187ac1a07b27"
+hash = "e9891e384089d6449023505b51f4bd9e2d8bf9e687ca5270d4f51930e3754315"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -303,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8b8ef0dac6b228aec7d0254f335926264d2bc613fab3426ea5c74c99e010888a"
-metafile = true
-
-[[files]]
-file = "mods/flashback.pw.toml"
-hash = "ad90386de31079f24f0969ec7bf8384b05edab7b6df96d1c260254f42eefe073"
 metafile = true
 
 [[files]]

@@ -21,7 +21,6 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Falling Leaves
 * Fast IP Ping
 * FerriteCore
-* Flashback
 * Forge Config API Port
 * ImmediatelyFast
 * Iris Shaders
