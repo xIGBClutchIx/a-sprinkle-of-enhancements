@@ -52,4 +52,4 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Theone's Eating Animation Pack
 
 # Shader Packs
-* Complementary Shaders v5 (Unbound r5.8.1)
+* Complementary Shaders v5 (Unbound r5.9.3)

@@ -1,13 +1,13 @@
-name = "AutoRun"
-filename = "autorun-mc26.2-v1.6.0.jar"
+name = "Auto-Run (Fabric)"
+filename = "autorun-mc26.2-v2.0.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "46684c9561d89106afb3e924d94e6a11c973ddc6"
+hash = "6bd0b41436e273dbda8de9e03636c72b93f43135"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8268326
+file-id = 8779465
 project-id = 279429
