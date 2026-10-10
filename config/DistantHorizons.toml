@@ -1,3 +1,0 @@
-[client.advanced.graphics.experimental]
-renderingApi = "OPEN_GL"
-renderingEngine = "OPEN_GL"
