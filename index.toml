@@ -5,6 +5,10 @@ file = "README.md"
 hash = "a74e261bc393c1637ed7acc4cf6693e98c72eac1d468588b6fa26222005b21a9"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "40bdd81035d2c3190ba02851355ee1a07e446ecf54ea86420433575828e3e8e3"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
