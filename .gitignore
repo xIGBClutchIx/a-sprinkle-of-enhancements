@@ -5,3 +5,5 @@
 .vscode/
 
 .packwiz-cache/
+# Exclude exported CurseForge modpacks
+*.zip
