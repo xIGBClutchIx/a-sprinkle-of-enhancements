@@ -58,7 +58,7 @@ hash = "90e765866cc73cb352c9c06bed8b3d36b1a2a0dc111396b3c54ec9cfce030ea6"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "fc4d7a195210fb6d32cdfc5a255b6d555ab0225da1a929b61d17dd6b5648c2ba"
+hash = "71d5e19e278cb843d92f90a99b8a9772780c62e5611b7c8cc92097cd18399b08"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
@@ -94,7 +94,7 @@ hash = "efeeec78f15b9cf25d1c418a3f7ce9a61e050c3122b718d8cc84a7968da7c237"
 
 [[files]]
 file = "config/scalablelux.properties"
-hash = "e71619fff970448d717384a14b12ef8f9762029dacff05a272c0600887bee319"
+hash = "0690c4bc1322b731f55989375a69236b12dbcb28ce68b5874ecd8eb5191ba98b"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
@@ -182,11 +182,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "a722b521754b2a764d792f30a9e6f6410a66b6133a01295238a8723fa1992bd9"
+hash = "4d2590c7749b3c54c777d55ed3af31569916d02477268d3b661c48cbf79d19b9"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "2ce22db43d2e814ab773b3afe4678ec7027ec5bcc913aa3f99f2b674cac9d78c"
+hash = "68595890e8f4922f038b61cfb82dcf4abcc498ff18c69c1cc2b96c67d02c90c3"
 
 [[files]]
 file = "config/waveycapes.json"
