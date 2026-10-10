@@ -40,6 +40,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Simple Voice Chat
 * Sit!
 * Sodium
+* Sodium Extra
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
 * TT20 (TPS Fixer)

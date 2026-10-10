@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "03772df1d123aa936b79f784f8828ac7c49832f8688c7d80afc4a1c48c96c014"
+hash = "1662d594a48770552a126c41b71d894445c98dc509122ed0481c0c90228483db"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -45,14 +45,6 @@ file = "config/chat_heads.json5"
 hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
 
 [[files]]
-file = "config/clean-debug.json"
-hash = "167e65d26ea7157fb60aa640881fa2968bf01cb03014e25d63727d1cb8c70d05"
-
-[[files]]
-file = "config/continuity.json"
-hash = "cabe00d1fd6091202d1180bd86d31bca69a5999a43317c3a77aea94da4f76016"
-
-[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "c4091a22bf31f934ca88f17b4dea8193990da79c4380e838b10453a493be9184"
 
@@ -69,20 +61,12 @@ file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
-file = "config/flashback/flashback.json"
-hash = "90818b1d98486328cab81f3c1f5ee37d0c8060c4f80f49ebb9791e673d3472a0"
-
-[[files]]
 file = "config/forgeconfigapiport.toml"
 hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f4933d24a5acc79d5a54716d914ad499a49cb3083130fd994874d9efa686f580"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "ad41bf5bcf1e7e30bd3a81cefbecee645939701a901a97b68e9bf41ce7fb7b7a"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -99,14 +83,6 @@ hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 [[files]]
 file = "config/midnightlib.json"
 hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
-
-[[files]]
-file = "config/modelfix-client.json"
-hash = "7e02c1d587a4c011b0b18080b7ba7451bd44535159a52c4c0c9a94b863334678"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "df72ca63a7e825dc25fbbb59a2a0a955ef913c1bf30813618dee7d4e35749188"
 
 [[files]]
 file = "config/modmenu.json"
@@ -389,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "bfc1b7a5cbe7dcf5dc05cbe6eb0c1364868731662af19628d8ac51ef4ae3c9c8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a6af2c95a57e53be243fcfd867832bfc0f681084c84f2c1fb48df2d9a163a15c"
 metafile = true
 
 [[files]]
