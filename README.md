@@ -13,6 +13,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Chat Heads
 * Cloth Config API
 * Cubes Without Borders
+* Dark Loading Screen
 * Distant Horizons
 * Emotecraft
 * Fabric API
@@ -21,9 +22,11 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Fast IP Ping
 * FerriteCore
 * Forge Config API Port
+* Fusion (Connected Textures)
 * Head Locator
 * ImmediatelyFast
 * Iris Shaders
+* Krypton
 * Lithium
 * MidnightLib
 * Mod Menu

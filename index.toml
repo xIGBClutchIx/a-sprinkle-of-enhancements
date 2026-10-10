@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b5eb543ec815c972012d8dcce0e16183b152fa7f662c393c94c2c0545375a22b"
+hash = "1ba058e4ca89ba22196a58c22f910c6e8f0926368448ff66886e7e9dbb1e78ec"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -266,6 +266,11 @@ hash = "aefe62738c2529d74df605f73576dce1c3e58d3920190de8f98f099d09ea0217"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "164b268ddadebb184f7e83874dc73a94873d33226fa53c9c8115954627ca4148"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "dd6a92da61fe3433f99a768e9ae5416085106301f0555984b8be3c2681c7b657"
 metafile = true
@@ -306,6 +311,11 @@ hash = "d0d32a4cf3915c836d6966c97d5f4944e2717d2f6bedcd479bb3ab00a3cd1c9b"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "5ab0d2f2fdfadd8733df2dc6cb1ab1ff79234a8a3667ebbbcfa80df04d1cfb0c"
+metafile = true
+
+[[files]]
 file = "mods/head-locator.pw.toml"
 hash = "74f0c1201c3ccec91051fe33021775c005ffb898fa10613b3ad7141aebef5447"
 metafile = true
@@ -318,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f14da2af5a6e1422044f64744272912e7dd1d11a75906fd4f47eeb0478c9fece"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "aabea8067dc0c6babeaf81aa13791d174d973d94ece47ad0428f89ce9406874a"
 metafile = true
 
 [[files]]
