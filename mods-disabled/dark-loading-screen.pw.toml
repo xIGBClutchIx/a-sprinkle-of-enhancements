@@ -3,11 +3,11 @@ filename = "dark-loading-screen-1.6.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/h3XWIuzM/versions/AgGXIgW2/dark-loading-screen-1.6.18.jar"
-hash-format = "sha512"
-hash = "6b88ee035a6c78502b3d2d6d0909379506d443acc2bc10b45802d7f36d43e8e55a2fa1046f6bd11ed8f1bc37354c897937e093505864134204c30e277395dc21"
+hash-format = "sha1"
+hash = "bc9edd9450a3e8b746605369d6396869c0bc2729"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "h3XWIuzM"
-version = "AgGXIgW2"
+[update.curseforge]
+file-id = 7831278
+project-id = 365727

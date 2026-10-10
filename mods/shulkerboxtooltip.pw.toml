@@ -3,11 +3,11 @@ filename = "shulkerboxtooltip-fabric-5.3.1+26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2M01OLQq/versions/usQ3Kyvp/shulkerboxtooltip-fabric-5.3.1%2B26.2.jar"
-hash-format = "sha512"
-hash = "7a961df32510057beb7cdb537e0d1bd8ab444a16492c5650f863b966b7212d948c7f86fa6fa34aeedbccf4230266d84018cd0f9276bfb5b1a62cf7e8c6ea20c4"
+hash-format = "sha1"
+hash = "a00f09ff419d8848ffd63abcc71a87ba2cf4f1ed"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "2M01OLQq"
-version = "usQ3Kyvp"
+[update.curseforge]
+file-id = 8268665
+project-id = 315811

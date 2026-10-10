@@ -4,11 +4,11 @@ side = "client"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/3QgJXuSK/sodium-fabric-0.9.0%2Bmc26.2.jar"
-hash-format = "sha512"
-hash = "cff27e97d179ec1d3bcbcfc49820ec62b04fd101c98c2922cbcf426a3a0d3b32cd73e2d4cbefe0e291c9074484fbfdfa9d53b8cf0dc8783b015f33b2e21126a3"
+hash-format = "sha1"
+hash = "924dc2b779b7b7cd2d1d2464b863b00aa9fea797"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "AANobbMI"
-version = "3QgJXuSK"
+[update.curseforge]
+file-id = 8261462
+project-id = 394468

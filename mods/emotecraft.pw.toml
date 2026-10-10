@@ -3,11 +3,11 @@ filename = "emotecraft-for-MC26.2-3.4.0-b.build.153.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/hWkVx9pM/emotecraft-for-MC26.2-3.4.0-b.build.153.jar"
-hash-format = "sha512"
-hash = "722da3d27601144094c757996825196b251259bd058fea6f198941c363922626b0d37ba13d7c09d8ed8f771a95eeb5a3eabfd7fb68eafb0cfb5c30919c7782ab"
+hash-format = "sha1"
+hash = "a7a53d637bdb053e97429b7b469e07ec69588b77"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "pZ2wrerK"
-version = "hWkVx9pM"
+[update.curseforge]
+file-id = 8330308
+project-id = 397809

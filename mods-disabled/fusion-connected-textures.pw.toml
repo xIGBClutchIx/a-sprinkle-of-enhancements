@@ -3,11 +3,11 @@ filename = "fusion-1.2.12a-fabric-mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/p19vrgc2/versions/mejTd03X/fusion-1.2.12a-fabric-mc1.21.11.jar"
-hash-format = "sha512"
-hash = "003fa32f2400ca0b8b4bf6556a0da5cec21be5c3310752b1d56b064d6fb4d2bc030a64d26b61cd4ba4590b5c3e3a0b1f5e55537b0982cea8f169a8cd22b4ede0"
+hash-format = "sha1"
+hash = "f2aa9ab3b80a5b95d44a2badde3e2dbae788e7c5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "p19vrgc2"
-version = "mejTd03X"
+[update.curseforge]
+file-id = 7565594
+project-id = 854949

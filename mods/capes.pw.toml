@@ -3,11 +3,11 @@ filename = "capes-1.5.11+26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/ou6uEXQY/capes-1.5.11%2B26.2.jar"
-hash-format = "sha512"
-hash = "260a95398c2a9e31b1deb9da0cc8e97310acb08219785b590116070f963aef4ca834342f03c8c31640a204bcb2c67861c83fe9c056be1b9df8b8d970980b0e91"
+hash-format = "sha1"
+hash = "dc142c4f00435d299fa94d7d3558c70da9da5c04"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "89Wsn8GD"
-version = "ou6uEXQY"
+[update.curseforge]
+file-id = 8260310
+project-id = 408481

@@ -3,11 +3,11 @@ filename = "colorfulsubtitles-1.7.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tio7pobN/versions/bLjIYBuv/colorfulsubtitles-1.7.0.jar"
-hash-format = "sha512"
-hash = "0cdf4f2a78edce43fea6efe6c0657963ee1cbb6af8102cef9bc9d61fdccf8338986c3b0304f4d92209811794a3e8a5d372fb12c747614d60c479dfe27cf6c7af"
+hash-format = "sha1"
+hash = "4893ab2f7d7f99d65c585109ca364f097aa62841"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Tio7pobN"
-version = "bLjIYBuv"
+[update.curseforge]
+file-id = 6680791
+project-id = 514041

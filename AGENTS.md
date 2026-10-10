@@ -2,10 +2,10 @@
 
 ## Project Structure & Module Organization
 - `pack.toml` and `index.toml` define the Packwiz-managed modpack metadata and file hashes.
-- `mods/` contains Packwiz `.pw.toml` mod descriptors; `mods-disabled/` holds optional mods not shipped by default.
+- `mods/` contains Packwiz `.pw.toml` mod descriptors, sourced from CurseForge (a few CurseForge doesn't carry stay on Modrinth); `mods-disabled/` holds optional mods not shipped by default.
 - `config/` stores per-mod configuration files (JSON, TOML, properties, YAML).
 - `resourcepacks/` and `shaderpacks/` contain pack descriptors and assets.
-- `*.mrpack` files are exported release artifacts for specific Minecraft versions.
+- Releases are CurseForge modpack `.zip` files exported for specific Minecraft versions.
 
 ## Build, Test, and Development Commands
 - This repository is managed with Packwiz; there are no other build or test scripts.
@@ -14,7 +14,8 @@
   - `packwiz refresh` (recompute `index.toml` hashes after file changes)
   - `packwiz update` (update all external mods/files that support updates)
   - `packwiz migrate minecraft` / `packwiz migrate loader` (update Minecraft or Fabric loader versions)
-  - `packwiz modrinth export` or `packwiz curseforge export` (create `.mrpack` releases)
+  - `packwiz curseforge add <url|slug>` (add a mod from CurseForge; prefer CurseForge over Modrinth)
+  - `packwiz curseforge export` (create the CurseForge `.zip` release; Modrinth-only files are bundled into `overrides/`)
 
 ## Coding Style & Naming Conventions
 - Preserve existing file formats and ordering; many files are tool-generated.
@@ -28,7 +29,7 @@
 
 ## Commit & Pull Request Guidelines
 - Commit messages follow Conventional Commits with scopes, e.g. `feat(release): ...` or `fix(pack): ...`.
-- PRs should summarize mod/config changes, list the targeted Minecraft/Fabric versions, and include release notes when updating `*.mrpack` files.
+- PRs should summarize mod/config changes, list the targeted Minecraft/Fabric versions, and include release notes when publishing a CurseForge `.zip` release.
 
 ## Configuration & Safety Tips
 - Treat `config/` updates as user-facing defaults; avoid introducing server-breaking or gameplay-altering mods.

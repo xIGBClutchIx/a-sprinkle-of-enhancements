@@ -3,11 +3,11 @@ filename = "sit!-1.2.6.3+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/yymwWm0P/sit%21-1.2.6.3%2B26.2.jar"
-hash-format = "sha512"
-hash = "d6d1310de1f77601e45bbb25c5f5a8194053b3dc31b6c70f4f162c598354b1913bc6e07996e6cbf37a6673097444ce845403e52dd850437414d4d4c838f36e79"
+hash-format = "sha1"
+hash = "6f0b7aaf8fc03761986ab2dd6c9d3a88066383e6"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "EsYqsGV4"
-version = "yymwWm0P"
+[update.curseforge]
+file-id = 8337503
+project-id = 892424

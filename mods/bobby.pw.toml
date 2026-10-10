@@ -3,11 +3,11 @@ filename = "bobby-5.2.14+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/9O9VU4Wh/bobby-5.2.14%2Bmc26.2.jar"
-hash-format = "sha512"
-hash = "7b3f7f1b31c0a3847f4551a65e0da8aacecd62915aebb94133db663ee4a8a06ba6e70b1bf6f145d0aa4a842a664aa3a3701659e993422c94282f2f1dd88677ea"
+hash-format = "sha1"
+hash = "0a57a358795280386f8a20aad1de35efe4e5e5d1"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "M08ruV16"
-version = "9O9VU4Wh"
+[update.curseforge]
+file-id = 8284769
+project-id = 409301
