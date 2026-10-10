@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 - `pack.toml` and `index.toml` define the Packwiz-managed modpack metadata and file hashes.
-- `mods/` contains Packwiz `.pw.toml` mod descriptors, sourced from CurseForge (a few CurseForge doesn't carry stay on Modrinth); `mods-disabled/` holds optional mods not shipped by default.
+- `mods/` contains Packwiz `.pw.toml` mod descriptors, all sourced from CurseForge; `mods-disabled/` holds optional mods not shipped by default.
 - `config/` stores per-mod configuration files (JSON, TOML, properties, YAML).
 - `resourcepacks/` and `shaderpacks/` contain pack descriptors and assets.
 - Releases are CurseForge modpack `.zip` files exported for specific Minecraft versions.
