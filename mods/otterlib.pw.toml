@@ -3,11 +3,11 @@ filename = "otterlib-0.4.0.0+26.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zVVpzurY/versions/TSzkTFkO/otterlib-0.4.0.0%2B26.2-fabric.jar"
-hash-format = "sha512"
-hash = "a911eb45158995b250382137e7e7a0867dd00ab954713db1dc6f58711de16b7fe9bfaab7499510c5d1fa5774bbd1c2c1b38c560c6c9b7d9f1fcc40ac4f6f9a78"
+hash-format = "sha1"
+hash = "aa5b3c405a5236edec6c273a4cac05303b2381e1"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "zVVpzurY"
-version = "TSzkTFkO"
+[update.curseforge]
+file-id = 8337456
+project-id = 1257159

@@ -17,14 +17,15 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Emotecraft
 * Fabric API
 * Fabric Language Kotlin
-* facebar
 * Falling Leaves
 * Fast IP Ping
 * FerriteCore
-* Flashback
 * Forge Config API Port
+* Fusion (Connected Textures)
+* Head Locator
 * ImmediatelyFast
 * Iris Shaders
+* Krypton
 * Lithium
 * MidnightLib
 * Mod Menu
@@ -39,6 +40,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 * Simple Voice Chat
 * Sit!
 * Sodium
+* Sodium Extra
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
 * TT20 (TPS Fixer)
@@ -48,7 +50,7 @@ Everything you see in this pack should work completely fine on Vanilla servers! 
 # Resource Packs
 * Default Dark Mode
 * Classic Faithful 32x
-* Eating Animation Resource Pack
+* Theone's Eating Animation Pack
 
 # Shader Packs
-* Complementary Shaders v5 (Unbound r5.8.1)
+* Complementary Shaders v5 (Unbound r5.9.3)

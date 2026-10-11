@@ -1,13 +1,13 @@
-name = "Complementary Shaders v5"
-filename = "ComplementaryUnbound_r5.8.1.zip"
+name = "Complementary Shaders - Unbound"
+filename = "ComplementaryUnbound_r5.9.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip"
-hash-format = "sha512"
-hash = "9098dd9e0c18b80f7aba2839cea33ce9a614d97665bbfcac87ccce6e4771667c41602d99088852cb1642ccab20b2ceff9b98af8f2e795bd0d3b90b7c9cbab914"
+hash-format = "sha1"
+hash = "2ee08300e1d6f039e63eae8484dddf57b3aaaf67"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "R6NEzAwj"
-version = "VMHXIk50"
+[update.curseforge]
+file-id = 8884656
+project-id = 385587

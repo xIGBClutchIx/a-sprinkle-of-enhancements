@@ -13,6 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
+exclusiveFullscreen:false
 gamma:1.0
 graphicsMode:1
 guiScale:2
@@ -56,7 +57,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/CF32PA-2026r14.zip","file/Default-Dark-Mode-26.2-2026.6.0.zip","file/Eating Animation v1.1.zip"]
+resourcePacks:["vanilla","file/CF32PA-2026r21.zip","file/Default-Dark-Mode-26.2-2026.6.0.zip","file/Theone's Eating Animation Pack v1.0.zip"]
 incompatibleResourcePacks:[]
 lang:en_us
 chatVisibility:0

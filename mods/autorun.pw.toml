@@ -1,13 +1,13 @@
-name = "AutoRun"
-filename = "autorun-mc26.2-v1.6.0.jar"
+name = "Auto-Run (Fabric)"
+filename = "autorun-mc26.2-v2.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/h67XNzRg/autorun-mc26.2-v1.6.0.jar"
-hash-format = "sha512"
-hash = "2a5567af02b45d423be7845fd20c119c5b18ecdc8546350db6527a87677811c3229355d7b9addf4a09ac4cb87e232e487035f2ae6a49069c9ba93181fd194fff"
+hash-format = "sha1"
+hash = "6bd0b41436e273dbda8de9e03636c72b93f43135"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "2i7tg1Wv"
-version = "h67XNzRg"
+[update.curseforge]
+file-id = 8779465
+project-id = 279429
