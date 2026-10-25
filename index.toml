@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e03a9bd9611f59a07af180f2971913fd5349a0ef77116ef5c7e63d81fb6a739b"
+hash = "1eddd878e32bb3e968aadd9a1d3145ecae1f32abf38c1dd4f607d6b73ffe5dfe"
 
 [[files]]
 file = "resourcepacks/classic-faithful-32x.pw.toml"

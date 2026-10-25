@@ -47,8 +47,8 @@ jobs:
       - name: Check changelog has an entry for the pack version
         run: |
           version=$(grep '^version' pack.toml | cut -d'"' -f2)
-          if ! grep -Fxq "## $version" CHANGELOG.md; then
-            echo "::error file=CHANGELOG.md::CHANGELOG.md has no '## $version' section"
+          if ! grep -Fxq "# $version" CHANGELOG.md; then
+            echo "::error file=CHANGELOG.md::CHANGELOG.md has no '# $version' section"
             exit 1
           fi
 
