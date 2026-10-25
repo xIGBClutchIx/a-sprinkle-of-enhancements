@@ -6,6 +6,8 @@
 - `config/` stores per-mod configuration files (JSON, TOML, properties, YAML).
 - `resourcepacks/` and `shaderpacks/` contain pack descriptors and assets.
 - Releases are CurseForge modpack `.zip` files exported for specific Minecraft versions.
+- `CHANGELOG.md` holds the release notes for each pack version (`## <version>` sections).
+- `.github/workflows/ci.yml` validates every PR; `.github/workflows/release.yml` publishes releases.
 
 ## Build, Test, and Development Commands
 - This repository is managed with Packwiz; there are no other build or test scripts.
@@ -30,6 +32,12 @@
 ## Commit & Pull Request Guidelines
 - Commit messages follow Conventional Commits with scopes, e.g. `feat(release): ...` or `fix(pack): ...`.
 - PRs should summarize mod/config changes, list the targeted Minecraft/Fabric versions, and include release notes when publishing a CurseForge `.zip` release.
+
+## Releasing
+- Bump `version` in `pack.toml`, add a matching `## <version>` section to `CHANGELOG.md`, and update the resource pack filenames in `options.txt` if any changed.
+- After the PR is merged, tag `main` with the pack version (e.g. `git tag -a 26.3-v1 -m "A Sprinkle of Enhancements 26.3-v1"`) and push the tag.
+- The release workflow exports the pack, creates a GitHub release, and uploads it to CurseForge (requires the `CURSEFORGE_TOKEN` repository secret).
+- To re-run a release for an existing tag, run the Release workflow manually with that tag.
 
 ## Configuration & Safety Tips
 - Treat `config/` updates as user-facing defaults; avoid introducing server-breaking or gameplay-altering mods.

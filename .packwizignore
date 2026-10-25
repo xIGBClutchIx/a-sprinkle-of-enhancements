@@ -1,5 +1,7 @@
+.github/
 .packwiz-cache/
 .vscode/
 AGENTS.md
+CHANGELOG.md
 CLAUDE.md
 mods-disabled/
