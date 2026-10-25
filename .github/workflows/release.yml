@@ -46,13 +46,13 @@ jobs:
 
       - name: Extract release notes
         run: |
-          awk -v header="## $TAG" '
-            $0 == header { found = 1; next }
-            found && /^## / { exit }
+          awk -v header="# $TAG" '
+            found && /^# / { exit }
+            $0 == header { found = 1 }
             found { print }
-          ' CHANGELOG.md | sed '/./,$!d' > notes.md
+          ' CHANGELOG.md > notes.md
           if [ ! -s notes.md ]; then
-            echo "::error file=CHANGELOG.md::CHANGELOG.md has no '## $TAG' section"
+            echo "::error file=CHANGELOG.md::CHANGELOG.md has no '# $TAG' section"
             exit 1
           fi
           cat notes.md
