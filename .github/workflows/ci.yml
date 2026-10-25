@@ -1,0 +1,70 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+env:
+  PACKWIZ_VERSION: v0.0.0-20261014010756-170b22d78595
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-go@v6
+        with:
+          go-version: stable
+          cache: false
+
+      - name: Install packwiz
+        run: go install "github.com/packwiz/packwiz@${PACKWIZ_VERSION}"
+
+      - name: Check index hashes are up to date
+        run: |
+          packwiz refresh
+          if ! git diff --exit-code; then
+            echo "::error::index.toml or pack.toml is out of date. Run 'packwiz refresh' and commit the result."
+            exit 1
+          fi
+
+      - name: Check options.txt resource packs exist
+        run: |
+          missing=0
+          packs=$(grep -h '^filename' resourcepacks/*.pw.toml | cut -d'"' -f2)
+          enabled=$(grep '^resourcePacks:' options.txt | grep -o '"file/[^"]*"' | sed 's/^"file\///; s/"$//')
+          while IFS= read -r pack; do
+            [ -z "$pack" ] && continue
+            if ! grep -Fxq "$pack" <<< "$packs"; then
+              echo "::error file=options.txt::options.txt enables '$pack', which is not in resourcepacks/"
+              missing=1
+            fi
+          done <<< "$enabled"
+          exit $missing
+
+      - name: Check changelog has an entry for the pack version
+        run: |
+          version=$(grep '^version' pack.toml | cut -d'"' -f2)
+          if ! grep -Fxq "## $version" CHANGELOG.md; then
+            echo "::error file=CHANGELOG.md::CHANGELOG.md has no '## $version' section"
+            exit 1
+          fi
+
+      - name: Export CurseForge pack
+        run: |
+          packwiz curseforge export -o pack.zip
+          minecraft=$(grep '^minecraft' pack.toml | cut -d'"' -f2)
+          version=$(grep '^version' pack.toml | cut -d'"' -f2)
+          unzip -p pack.zip manifest.json | jq -e --arg mc "$minecraft" --arg v "$version" \
+            '.minecraft.version == $mc and .version == $v' > /dev/null
+          if unzip -l pack.zip | grep -q 'overrides/mods/'; then
+            echo "::error::Export bundles mod jars in overrides/mods; every mod should come from CurseForge"
+            exit 1
+          fi
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: curseforge-pack
+          path: pack.zip

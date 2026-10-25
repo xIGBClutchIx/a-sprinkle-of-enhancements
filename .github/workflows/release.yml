@@ -1,0 +1,114 @@
+name: Release
+
+on:
+  push:
+    tags: ['*-v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing tag to release (e.g. 26.3-v1)
+        required: true
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+env:
+  PACKWIZ_VERSION: v0.0.0-20261014010756-170b22d78595
+  CURSEFORGE_PROJECT_ID: 1738039
+  TAG: ${{ github.event_name == 'push' && github.ref_name || inputs.tag }}
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: refs/tags/${{ env.TAG }}
+
+      - uses: actions/setup-go@v6
+        with:
+          go-version: stable
+          cache: false
+
+      - name: Install packwiz
+        run: go install "github.com/packwiz/packwiz@${PACKWIZ_VERSION}"
+
+      - name: Check tag matches pack version
+        run: |
+          version=$(grep '^version' pack.toml | cut -d'"' -f2)
+          if [ "$version" != "$TAG" ]; then
+            echo "::error::Tag $TAG does not match pack.toml version $version"
+            exit 1
+          fi
+
+      - name: Extract release notes
+        run: |
+          awk -v header="## $TAG" '
+            $0 == header { found = 1; next }
+            found && /^## / { exit }
+            found { print }
+          ' CHANGELOG.md | sed '/./,$!d' > notes.md
+          if [ ! -s notes.md ]; then
+            echo "::error file=CHANGELOG.md::CHANGELOG.md has no '## $TAG' section"
+            exit 1
+          fi
+          cat notes.md
+
+      - name: Export CurseForge pack
+        run: |
+          packwiz curseforge export
+          zip=$(ls *.zip)
+          echo "ZIP=$zip" >> "$GITHUB_ENV"
+
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" > /dev/null 2>&1; then
+            gh release upload "$TAG" "$ZIP" --clobber
+          else
+            gh release create "$TAG" "$ZIP" --verify-tag \
+              --title "A Sprinkle of Enhancements $TAG" --notes-file notes.md
+          fi
+
+      - name: Upload to CurseForge
+        env:
+          CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+        run: |
+          if [ -z "$CURSEFORGE_TOKEN" ]; then
+            echo "::error::The CURSEFORGE_TOKEN repository secret is not set"
+            exit 1
+          fi
+          api=https://minecraft.curseforge.com/api
+          minecraft=$(grep '^minecraft' pack.toml | cut -d'"' -f2)
+
+          curl -fsS -H "X-Api-Token: $CURSEFORGE_TOKEN" "$api/game/version-types" > types.json
+          curl -fsS -H "X-Api-Token: $CURSEFORGE_TOKEN" "$api/game/versions" > versions.json
+          game_versions=$(jq -c --arg mc "$minecraft" --slurpfile types types.json '
+            ($types[0] | map(select(.slug | startswith("minecraft-"))) | map(.id)) as $mc_types
+            | ($types[0] | map(select(.slug == "modloader")) | map(.id)) as $loader_types
+            | [
+                (map(select(.name == $mc and (.gameVersionTypeID as $t | $mc_types | index($t)))) | first | .id),
+                (map(select(.name == "Fabric" and (.gameVersionTypeID as $t | $loader_types | index($t)))) | first | .id)
+              ]
+          ' versions.json)
+          echo "CurseForge game version IDs for $minecraft + Fabric: $game_versions"
+          if jq -e 'any(. == null)' <<< "$game_versions" > /dev/null; then
+            echo "::error::Could not find CurseForge game version IDs for Minecraft $minecraft and Fabric"
+            exit 1
+          fi
+
+          jq -n --arg name "$TAG" --rawfile changelog notes.md --argjson gv "$game_versions" '{
+            displayName: $name,
+            changelog: $changelog,
+            changelogType: "markdown",
+            releaseType: "release",
+            gameVersions: $gv
+          }' > metadata.json
+          curl -sS --fail-with-body -H "X-Api-Token: $CURSEFORGE_TOKEN" \
+            -F "metadata=<metadata.json" \
+            -F "file=@$ZIP" \
+            "$api/projects/$CURSEFORGE_PROJECT_ID/upload-file"

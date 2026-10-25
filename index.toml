@@ -49,10 +49,6 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "c4091a22bf31f934ca88f17b4dea8193990da79c4380e838b10453a493be9184"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "096e5563d1f58449e2b09dd402e8d825cef503502329f25651ed016ad1881d4c"
-
-[[files]]
 file = "config/fallingleaves2.json"
 hash = "90e765866cc73cb352c9c06bed8b3d36b1a2a0dc111396b3c54ec9cfce030ea6"
 
@@ -113,10 +109,6 @@ file = "config/sodium-shadowy-path-blocks-options.json"
 hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
 
 [[files]]
-file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "fff260cfda3ce4308c8bfb89a109ff7c34a45fdbe90ca480b2ad5caa6976def0"
-
-[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
 
@@ -125,16 +117,16 @@ file = "config/sound_physics_remastered/reflectivity.properties"
 hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "f3ad9955603257b7d714ce54311cb093b7656548b2afe59e71e18ba8d135ea2a"
+
+[[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "8bcea4eec20ccdcb10d3693d401eb2b4eb9b472e7c316a7a0038510c8ad14049"
 
 [[files]]
-file = "config/viafabricplus/accounts.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/viafabricplus/settings.json"
-hash = "f536fefde166510972a10e2ccde9636a4ebd725813f2be89ed04c7f7fdc032f6"
+hash = "bb3c32d1bb5641361b6e790e8c156a4063b76b07a715611c094b8720cc79066a"
 
 [[files]]
 file = "config/viafabricplus/viaaprilfools.yml"
@@ -404,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "60db0a9df84b84978fc5e403d41116875bc87c9de65e64422c354a2002f04c00"
+hash = "e03a9bd9611f59a07af180f2971913fd5349a0ef77116ef5c7e63d81fb6a739b"
 
 [[files]]
 file = "resourcepacks/classic-faithful-32x.pw.toml"
