@@ -1,13 +1,13 @@
 name = "OtterLib"
-filename = "otterlib-0.4.0.0+26.2-fabric.jar"
+filename = "otterlib-0.4.0.2+26.3-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa5b3c405a5236edec6c273a4cac05303b2381e1"
+hash = "1079f41d140630ff8136a73164d1dfac4e0f711a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8337456
+file-id = 9015448
 project-id = 1257159

@@ -1,13 +1,13 @@
 name = "Classic Faithful 32x"
-filename = "CF32PA-2026r21.zip"
+filename = "CF32PA-2026r22.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "a552d2baa9b92cacd8aef2b1de16658779621bc5"
+hash = "61677e9022c3667f2b3f7803acf392d9ebe0ae3f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8899605
+file-id = 9296163
 project-id = 667237

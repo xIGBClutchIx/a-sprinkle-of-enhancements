@@ -1,13 +1,13 @@
 name = "Mod Menu"
-filename = "modmenu-20.0.3.jar"
+filename = "modmenu-21.0.0.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "9fc381627b471c18d67156e846228f51ff2ea5b4"
+hash = "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8966634
+file-id = 8958984
 project-id = 308702
