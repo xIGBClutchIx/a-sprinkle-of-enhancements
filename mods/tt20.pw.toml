@@ -1,13 +1,13 @@
 name = "TT20 (TPS Fixer)"
-filename = "tt20-0.8.5+mc26.1.1-fabric.jar"
+filename = "tt20-0.8.5+mc26.3-fabric.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "476e5843f069af5c90c8e2a9f24f962e14d16f7f"
+hash = "8c6f9b3f3d0887ebd81a0c13a83bfc0d624527a2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8894823
+file-id = 8894822
 project-id = 1368326

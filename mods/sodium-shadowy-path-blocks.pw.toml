@@ -1,13 +1,13 @@
-name = "Sodium Shadowy Path Blocks"
-filename = "sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+name = "Sodium Shadowy Path Blocks (SSPB)"
+filename = "sodium-shadowy-path-blocks-fabric-8.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1399156a64c7bfbc38fa21af935495cfb74923c3"
+hash = "9d5d153d39700683ffbf62afd0e965eb86113382"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7854083
+file-id = 8900279
 project-id = 556408

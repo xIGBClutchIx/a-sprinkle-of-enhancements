@@ -1,13 +1,13 @@
 name = "Sit!"
-filename = "sit!-1.2.6.3+26.2.jar"
+filename = "sit!-1.2.6.4+26.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6f0b7aaf8fc03761986ab2dd6c9d3a88066383e6"
+hash = "9124091b2c0c0a6b4cf1c38842fd27835aa96e66"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8337503
+file-id = 9015470
 project-id = 892424
